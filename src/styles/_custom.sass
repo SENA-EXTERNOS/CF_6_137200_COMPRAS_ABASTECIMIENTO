@@ -1,6 +1,6 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: banner 3s linear 0s infinite alternate forwards; 
     position: absolute
     top: 40%
     right: 50%
@@ -10,6 +10,322 @@
     top: 51%
     right: 30%
 
+.banner-principal__img 
+  width: 33%
+  z-index: 0
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+
+
+//custom para los bloque-texto-g  
+.bloque-texto-g1__img
+  width: 50%
+  position: absolute
+  top: 0
+  left: 535px
+  bottom: 0
+  background-position: center
+  background-size: cover
+  @media  ( max-width: 500px )
+    width: 100%
+    height: 30%
+    left: 0
+
+.bloque-texto-g1__texto
+  right: 350px
+  position: relative
+  width: 65%
+  background-color: rgba(255, 255, 255, 0.95)
+  @media ( max-width: 500px )
+    width: 100%
+    left: 0
+    top: -5px
+
+.bloque-texto-g2__img
+  width: 50%
+  position: absolute
+  top: 0
+  left: 535px
+  bottom: 0
+  background-position: center
+  background-size: cover
+  @media  ( max-width: 500px )
+    width: 100%
+    height: 30%
+    left: 0
+
+.bloque-texto-g2__texto
+  right: 350px
+  position: relative
+  width: 65%
+  background-color: rgba(255, 255, 255, 0.95)
+  @media ( max-width: 500px )
+    width: 100%
+    left: 0
+    top: -50px    
+//------------------------------------------
+
+//colores para bloque-texto-b
+.bloque-texto-1
+  position: relative
+  padding-bottom: 50px
+  &:before
+    height: 60%
+    content: ''
+    position: absolute
+    top: 70px
+    left: 70px
+    right: 0
+    bottom: 0
+    background-color: #F0F8FF
+  &__texto
+    position: relative
+  @media ( max-width: 500px )
+    &:before
+      top: 85px
+
+.bloque-texto-2
+  position: relative
+  padding-bottom: 50px
+  &:before
+    height: 30%
+    content: ''
+    position: absolute
+    top: 0px
+    left: 0px
+    right: 250px
+    bottom: 0
+    background-color: #fffcdd
+  &__texto
+    position: relative
+  @media ( max-width: 500px )
+    &:before
+      top: 0px
+      right: 160px 
+
+.bloque-texto-3
+  position: relative
+  padding-bottom: 50px
+  &:before
+    height: 30%
+    width: 100%
+    content: ''
+    position: absolute
+    top: 120px
+    left: 0px
+    right: 250px
+    bottom: 0
+    background-color: #F0F8FF
+  &__texto
+    position: relative
+  @media ( max-width: 500px )
+    &:before
+      top: 300px
+      right: 160px   
+           
+//-----------------------------------------------
+
+//custom para cajones de colores------------------------- 
+.cajon.color-cajon-1
+    background-color: #fffdeb
+.cajon.color-cajon-1:before
+    background-color: #FFF59D 
+.parrafo-color
+    background-color: #fffdeb
+
+//-------------------------------------------------------
+
+//backgrounds---------------------------------------------------------
+.t4-bkg
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema4/t4-bkg.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top    
+
+.t5-bkg
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema5/t5-bkg-superior.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top  
+
+.t5-bkg-inf
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema5/t5-bkg-inferior.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top    
+
+.t6-bkg
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema6/t6-bkg-superior.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top  
+
+.t8-bkg
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema8/t8-bkg-superior.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top  
+
+.t10-bkg
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema10/t10-bkg-superior.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top               
+//-----------------------------------------------------------    
+
+//tamaño imagenes movil-------
+@media ( max-width: 500px )
+  .img-movil
+    margin-left: 70px;
+    width: 50%;
+    margin-bottom: 10px;
+//-----------------------------
+
+//background para SlyderB  
+.bkg-slyder
+  position: relative
+  width: 100% 
+  background-image: url("../assets/curso/temas/tema4/bkg.png")
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 15px  
+
+.slyder-a__tipo-b .slyder-a__btn--atrs, .slyder-a__tipo-b .slyder-a__btn--sigt 
+    background-color: #D84318
+//----------------------------------------------    
+
+//color viñetas-----------------
+.color-vineta1
+  color: #D84318 !important
+  font-size: 18px
+//-----------------------------    
+
+//tabsA------------------------
+.tabs-a__tab
+  width: 150%
+  @media ( max-width: 500px )
+    width: 100%
+
+.tabs-a__content-item--active
+  margin-left: 70px
+  @media ( max-width: 500px )
+    margin-left: 0px
+
+//color tabsa inactivas
+.tabs-a__tab
+  background-color: #E8E8E8  
+//------------------------
+
+//custom TabsB finales tema 1------------------------------------
+.tabs-b
+    border-bottom: 1px
+    background-color: #FFF59D
+//--------------------------------------------------------------
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #F6F6F6 
+
+.acordion__accion__btn--a
+  background-color: #D84318 !important
+
+.acordion__activo
+  background-color: #FFFCDD  !important
+//--------------------------------------------------------------------  
+
+//custom tarjeta descarga
+.color-descarga
+  background-color: #1b418ad6
+.icono
+  width: 50px
+  @media ( max-width: 500px )
+    width: 100px
+//----------------------------
+
+//estilo tarjetas temas 9------------------
+.estilo-tarjeta
+  background-color: #ffffff
+
+  @media ( max-width: 500px )
+    p
+      font-size: 1em
+//------------------------------------      
+
+//estilos para tarjetas conectadas T10
+.color1
+  background-color: #1B3F5E
+  @media ( max-width: 500px )
+    border-top-right-radius: 20px !important
+    border-bottom-right-radius: 0px !important
+    border-bottom-left-radius: 0px !important
+
+.color2
+  background-color: #CCC47D
+  @media ( max-width: 500px )  
+    border-top-right-radius: 0px !important
+    border-bottom-left-radius: 20px !important
 
 @keyframes float1
   0%
@@ -17,3 +333,7 @@
 
   100%
     transform: translateY(0px)
+
+
+	
+    

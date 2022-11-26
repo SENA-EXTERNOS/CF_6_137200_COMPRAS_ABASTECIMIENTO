@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="671" viewBox="0 0 1240 671">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0f8ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_145086" data-name="Grupo 145086" transform="translate(-7538 6309)">
+    <g id="Grupo_145084" data-name="Grupo 145084" transform="translate(7358 -9087)">
+      <g id="Grupo_142745" data-name="Grupo 142745" transform="translate(180 2778)">
+        <g id="Grupo_141999" data-name="Grupo 141999" transform="translate(0 0)">
+          <g id="Grupo_141998" data-name="Grupo 141998" transform="translate(0 0)">
+            <rect id="Rectángulo_41974" data-name="Rectángulo 41974" width="671" height="295" transform="translate(0 671) rotate(-90)" opacity="0.798" fill="url(#linear-gradient)"/>
+            <rect id="Rectángulo_41975" data-name="Rectángulo 41975" width="671" height="295" transform="translate(1240) rotate(90)" opacity="0.798" fill="url(#linear-gradient)"/>
+            <g id="Grupo_141785" data-name="Grupo 141785" transform="translate(0 0.161)">
+              <path id="Trazado_114975" data-name="Trazado 114975" d="M812.618,386.057h-43.4l32.891,69.9-32.891,69.9h43.4l32.891-69.9Z" transform="translate(-769.221 -386.057)" fill="#f0f8ff"/>
+              <path id="Trazado_114976" data-name="Trazado 114976" d="M828.9,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-704.578 -386.057)" fill="#f0f8ff"/>
+              <path id="Trazado_114977" data-name="Trazado 114977" d="M845.189,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+              <path id="Trazado_114978" data-name="Trazado 114978" d="M861.475,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-575.292 -386.058)" fill="#f0f8ff"/>
+              <path id="Trazado_114979" data-name="Trazado 114979" d="M877.76,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-510.649 -386.058)" fill="#f0f8ff"/>
+            </g>
+            <g id="Grupo_141786" data-name="Grupo 141786" transform="translate(840 531.155)">
+              <path id="Trazado_114975-2" data-name="Trazado 114975" d="M802.111,525.862h43.4l-32.891-69.9,32.891-69.9h-43.4l-32.891,69.9Z" transform="translate(-445.509 -386.057)" fill="#f0f8ff"/>
+              <path id="Trazado_114976-2" data-name="Trazado 114976" d="M818.4,525.862h43.4l-32.89-69.9,32.89-69.9H818.4l-32.89,69.9Z" transform="translate(-542.722 -386.057)" fill="#f0f8ff"/>
+              <path id="Trazado_114977-2" data-name="Trazado 114977" d="M834.681,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+              <path id="Trazado_114978-2" data-name="Trazado 114978" d="M850.967,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-737.149 -386.057)" fill="#f0f8ff"/>
+              <path id="Trazado_114979-2" data-name="Trazado 114979" d="M867.251,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-834.362 -386.057)" fill="#f0f8ff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_145085" data-name="Grupo 145085" transform="translate(7433 -10860)">
+      <g id="Grupo_143907" data-name="Grupo 143907" transform="translate(140.316 4464.745)">
+        <line id="Línea_243" data-name="Línea 243" x2="28" transform="translate(213.094 149.523)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Polígono_26" data-name="Polígono 26" d="M249.219,149.416l-8.658,4.4-.18-8.435Z" fill="#12263f"/>
+        <g id="Grupo_143889" data-name="Grupo 143889">
+          <line id="Línea_244" data-name="Línea 244" y2="28" transform="translate(342.281 167.541)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-2" data-name="Polígono 26" d="M342.468,203.666l-4.4-8.658,8.436-.181Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143890" data-name="Grupo 143890">
+          <line id="Línea_245" data-name="Línea 245" y2="78" transform="translate(541.459 264.755)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-3" data-name="Polígono 26" d="M541.647,350.88l-4.4-8.658,8.435-.18Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143891" data-name="Grupo 143891">
+          <line id="Línea_246" data-name="Línea 246" x1="15" transform="translate(368.879 353.971)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-4" data-name="Polígono 26" d="M360.754,354.158l8.658-4.4.181,8.435Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143892" data-name="Grupo 143892">
+          <line id="Línea_247" data-name="Línea 247" x1="15" transform="translate(368.879 440.506)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-5" data-name="Polígono 26" d="M360.754,440.694l8.658-4.406.181,8.436Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143893" data-name="Grupo 143893">
+          <line id="Línea_248" data-name="Línea 248" y2="88" transform="translate(541.459 425.646)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-6" data-name="Polígono 26" d="M541.647,521.77l-4.4-8.657,8.435-.181Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143894" data-name="Grupo 143894">
+          <line id="Línea_249" data-name="Línea 249" x2="58" transform="translate(621.111 551.29)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-7" data-name="Polígono 26" d="M687.236,551.1l-8.658,4.4-.181-8.435Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143895" data-name="Grupo 143895">
+          <path id="Trazado_216859" data-name="Trazado 216859" d="M748.79,427.762h-9V537.541" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-8" data-name="Polígono 26" d="M756.914,427.574l-8.657,4.406-.181-8.436Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143896" data-name="Grupo 143896">
+          <line id="Línea_250" data-name="Línea 250" x2="9" transform="translate(922.308 385.962)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-9" data-name="Polígono 26" d="M939.433,385.775l-8.658,4.4-.18-8.435Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143897" data-name="Grupo 143897">
+          <line id="Línea_251" data-name="Línea 251" x2="9" transform="translate(853.523 268.206)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-10" data-name="Polígono 26" d="M870.647,268.018l-8.657,4.406-.181-8.436Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143898" data-name="Grupo 143898">
+          <line id="Línea_252" data-name="Línea 252" x2="9" transform="translate(922.308 462.498)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-11" data-name="Polígono 26" d="M939.433,462.311l-8.658,4.4-.18-8.436Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143899" data-name="Grupo 143899">
+          <path id="Trazado_216860" data-name="Trazado 216860" d="M1027.094,480.97V663.541l-141.661-.3h-9" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-12" data-name="Polígono 26" d="M868.308,663.432l8.658-4.405.181,8.435Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143900" data-name="Grupo 143900">
+          <line id="Línea_253" data-name="Línea 253" y2="28" transform="translate(778.237 585.442)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-13" data-name="Polígono 26" d="M778.425,621.567l-4.406-8.658,8.436-.18Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143901" data-name="Grupo 143901">
+          <line id="Línea_254" data-name="Línea 254" x2="28" transform="translate(412.46 233.47)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-14" data-name="Polígono 26" d="M448.585,233.282l-8.658,4.406-.18-8.436Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143902" data-name="Grupo 143902">
+          <line id="Línea_255" data-name="Línea 255" x2="28" transform="translate(608.532 233.47)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-15" data-name="Polígono 26" d="M644.656,233.282,636,237.688l-.181-8.436Z" fill="#12263f"/>
+        </g>
+        <g id="Grupo_143903" data-name="Grupo 143903">
+          <line id="Línea_256" data-name="Línea 256" x1="28" transform="translate(803.442 233.47)" fill="none" stroke="#12263f" stroke-width="2"/>
+          <path id="Polígono_26-16" data-name="Polígono 26" d="M795.318,233.657l8.657-4.4.181,8.436Z" fill="#12263f"/>
+        </g>
+        <line id="Línea_257" data-name="Línea 257" x2="189" transform="translate(519.237 664.827)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <line id="Línea_258" data-name="Línea 258" x1="19.286" transform="translate(858.666 194.255)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <line id="Línea_259" data-name="Línea 259" y2="46.286" transform="translate(840.666 208.398)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <line id="Línea_260" data-name="Línea 260" y2="52.714" transform="translate(908.808 397.684)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <line id="Línea_261" data-name="Línea 261" x2="41.143" transform="translate(866.38 427.255)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <line id="Línea_262" data-name="Línea 262" x1="87.429" transform="translate(397.094 393.541)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <line id="Línea_263" data-name="Línea 263" y2="60.429" transform="translate(395.523 365.255)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <rect id="Rectángulo_42843" data-name="Rectángulo 42843" width="167.143" height="33.429" rx="6" transform="translate(58.683 131.255)" fill="#1b3f5e"/>
+        <text id="Comienzo" transform="translate(142.057 151.827)" fill="#fff" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-31.623" y="0">Comienzo</tspan></text>
+        <rect id="Rectángulo_42844" data-name="Rectángulo 42844" width="167.143" height="46.429" rx="6" transform="translate(258.709 131.255)" fill="#fff59d"/>
+        <text id="Necesidad_de_compras_PAC" data-name="Necesidad de 
+compras PAC" transform="translate(343.01 151.827)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-44.205" y="0">Necesidad de </tspan><tspan x="-42.13" y="16.8">compras PAC</tspan></text>
+        <rect id="Rectángulo_42845" data-name="Rectángulo 42845" width="167.143" height="46.429" rx="6" transform="translate(877.959 170.456)" fill="#636363"/>
+        <text id="Búsqueda_de_proveedores" data-name="Búsqueda 
+de proveedores" transform="translate(961.333 191.027)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-32.86" y="0">Búsqueda </tspan><tspan x="-47.882" y="16.8">de proveedores</tspan></text>
+        <rect id="Rectángulo_42846" data-name="Rectángulo 42846" width="167.143" height="46.429" rx="6" transform="translate(877.959 244.992)" fill="#636363"/>
+        <text id="Listado_de_proveedores_Pac" data-name="Listado de 
+proveedores Pac" transform="translate(961.333 263.716)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-34.231" y="0">Listado de </tspan><tspan x="-52.076" y="16.8">proveedores Pac</tspan></text>
+        <rect id="Rectángulo_42847" data-name="Rectángulo 42847" width="167.143" height="46.429" rx="6" transform="translate(188.78 330.756)" fill="#636363"/>
+        <text id="Promesa_de_compras" data-name="Promesa 
+de compras" transform="translate(272.153 351.328)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-29.702" y="0">Promesa </tspan><tspan x="-36.757" y="16.8">de compras</tspan></text>
+        <rect id="Rectángulo_42848" data-name="Rectángulo 42848" width="167.143" height="46.429" rx="6" transform="translate(188.78 417.292)" fill="#636363"/>
+        <text id="Busca_de_otro_proveedor" data-name="Busca 
+de otro proveedor" transform="translate(272.153 435.661)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-21.031" y="0">Busca </tspan><tspan x="-54.934" y="16.8">de otro proveedor</tspan></text>
+        <rect id="Rectángulo_42849" data-name="Rectángulo 42849" width="167.143" height="46.429" rx="6" transform="translate(258.709 210.255)" fill="#fff59d"/>
+        <text id="Solicitud_de_compra" data-name="Solicitud de compra" transform="translate(342.285 237.38)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-61.879" y="0">Solicitud de compra</tspan></text>
+        <rect id="Rectángulo_42850" data-name="Rectángulo 42850" width="167.143" height="46.429" rx="6" transform="translate(457.888 528.076)" fill="#fff59d"/>
+        <text id="Seguimiento_de_pedido" data-name="Seguimiento de pedido" transform="translate(541.464 555.129)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-71.306" y="0">Seguimiento de pedido</tspan></text>
+        <g id="Grupo_143904" data-name="Grupo 143904">
+          <rect id="Rectángulo_42851" data-name="Rectángulo 42851" width="167.143" height="46.429" rx="6" transform="translate(372.995 640.03)" fill="#1b3f5e"/>
+          <text id="Fin_de_proceso" data-name="Fin de proceso" transform="translate(456.571 667.155)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-45.746" y="0">Fin de proceso</tspan></text>
+        </g>
+        <rect id="Rectángulo_42852" data-name="Rectángulo 42852" width="167.143" height="74.429" rx="6" transform="translate(457.888 210.255)" fill="#fff59d"/>
+        <text id="Evaluación_de_proveedores_y_cotizaciones" data-name="Evaluación 
+de proveedores 
+y cotizaciones" transform="translate(543.213 236.38)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-35.352" y="0">Evaluación </tspan><tspan x="-49.615" y="16.8">de proveedores </tspan><tspan x="-44.499" y="33.6">y cotizaciones</tspan></text>
+        <rect id="Rectángulo_42853" data-name="Rectángulo 42853" width="167.143" height="74.429" rx="6" transform="translate(457.888 359.398)" fill="#fff59d"/>
+        <text id="Negociación_con_proveedores" data-name="Negociación 
+con proveedores" transform="translate(541.464 390.523)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-40.739" y="0">Negociación </tspan><tspan x="-51.745" y="16.8">con proveedores</tspan></text>
+        <g id="Grupo_143905" data-name="Grupo 143905">
+          <rect id="Rectángulo_42854" data-name="Rectángulo 42854" width="167.143" height="74.429" rx="6" transform="translate(694.666 528.076)" fill="#fff59d"/>
+          <text id="Recepción_de_la_mercancía" data-name="Recepción 
+de la mercancía" transform="translate(778.242 559.201)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-34.269" y="0">Recepción </tspan><tspan x="-49.311" y="16.8">de la mercancía</tspan></text>
+        </g>
+        <g id="Grupo_143906" data-name="Grupo 143906">
+          <rect id="Rectángulo_42855" data-name="Rectángulo 42855" width="167.143" height="74.429" rx="6" transform="translate(694.666 626.03)" fill="#fff59d"/>
+          <text id="Recepción_de_factura_para_pago" data-name="Recepción de 
+factura para pago" transform="translate(778.242 657.155)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-43.658" y="0">Recepción de </tspan><tspan x="-54.981" y="16.8">factura para pago</tspan></text>
+        </g>
+        <rect id="Rectángulo_42856" data-name="Rectángulo 42856" width="93.536" height="93.536" transform="translate(724.969 167.33) rotate(45)" fill="#d84318"/>
+        <text id="Decisión" transform="translate(722.669 237.356)" fill="#fff" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-27.173" y="0">Decisión</tspan></text>
+        <rect id="Rectángulo_42857" data-name="Rectángulo 42857" width="167.143" height="46.429" rx="6" transform="translate(944.352 362.748)" fill="#636363"/>
+        <text id="Devolución" transform="translate(1027.726 390.319)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-34.361" y="0">Devolución</tspan></text>
+        <rect id="Rectángulo_42858" data-name="Rectángulo 42858" width="167.143" height="46.429" rx="6" transform="translate(944.352 439.284)" fill="#636363"/>
+        <text id="Aceptación" transform="translate(1028.265 466.408)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-35.178" y="0">Aceptación</tspan></text>
+        <rect id="Rectángulo_42859" data-name="Rectángulo 42859" width="93.536" height="93.536" transform="translate(825.362 361.622) rotate(45)" fill="#d84318"/>
+        <text id="Revisión_del_pedido" data-name="Revisión 
+del pedido" transform="translate(825.266 423.272)" fill="#fff" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-28.677" y="0">Revisión </tspan><tspan x="-32.754" y="16.8">del pedido</tspan></text>
+        <text id="No" transform="translate(844.156 199.185)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-8.982" y="0">No</tspan></text>
+        <text id="Si" transform="translate(844.156 273.466)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-5.852" y="0">Si</tspan></text>
+        <text id="No-2" data-name="No" transform="translate(910.396 390.867)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-8.982" y="0">No</tspan></text>
+        <text id="Si-2" data-name="Si" transform="translate(910.396 467.758)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-5.852" y="0">Si</tspan></text>
+        <text id="Si-3" data-name="Si" transform="translate(394.76 359.231)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-5.852" y="0">Si</tspan></text>
+        <text id="No-3" data-name="No" transform="translate(394.76 445.411)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-8.982" y="0">No</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

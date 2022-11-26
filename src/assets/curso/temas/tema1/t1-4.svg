@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="666" viewBox="0 0 1240 666">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0f8ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_145106" data-name="Grupo 145106" transform="translate(6408 9344)">
+    <g id="Grupo_145104" data-name="Grupo 145104" transform="translate(-6588 -11804)">
+      <g id="Grupo_141999" data-name="Grupo 141999" transform="translate(0 1319)">
+        <g id="Grupo_141998" data-name="Grupo 141998" transform="translate(180 1141)">
+          <rect id="Rectángulo_41974" data-name="Rectángulo 41974" width="666" height="295" transform="translate(0 666) rotate(-90)" opacity="0.798" fill="url(#linear-gradient)"/>
+          <rect id="Rectángulo_41975" data-name="Rectángulo 41975" width="666" height="295" transform="translate(1240) rotate(90)" opacity="0.798" fill="url(#linear-gradient)"/>
+          <g id="Grupo_141785" data-name="Grupo 141785" transform="translate(0 0.161)">
+            <path id="Trazado_114975" data-name="Trazado 114975" d="M812.618,386.057h-43.4l32.891,69.9-32.891,69.9h43.4l32.891-69.9Z" transform="translate(-769.221 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114976" data-name="Trazado 114976" d="M828.9,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-704.578 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114977" data-name="Trazado 114977" d="M845.189,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114978" data-name="Trazado 114978" d="M861.475,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-575.292 -386.058)" fill="#f0f8ff"/>
+            <path id="Trazado_114979" data-name="Trazado 114979" d="M877.76,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-510.649 -386.058)" fill="#f0f8ff"/>
+          </g>
+          <g id="Grupo_141786" data-name="Grupo 141786" transform="translate(840 526.034)">
+            <path id="Trazado_114975-2" data-name="Trazado 114975" d="M802.111,525.862h43.4l-32.891-69.9,32.891-69.9h-43.4l-32.891,69.9Z" transform="translate(-445.509 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114976-2" data-name="Trazado 114976" d="M818.4,525.862h43.4l-32.89-69.9,32.89-69.9H818.4l-32.89,69.9Z" transform="translate(-542.722 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114977-2" data-name="Trazado 114977" d="M834.681,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114978-2" data-name="Trazado 114978" d="M850.967,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-737.149 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114979-2" data-name="Trazado 114979" d="M867.251,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-834.362 -386.057)" fill="#f0f8ff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_145105" data-name="Grupo 145105" transform="translate(-6588 -11756)">
+      <rect id="Rectángulo_42030" data-name="Rectángulo 42030" width="475.267" height="118.701" rx="6" transform="translate(629.66 2470.5)" fill="#fff59d"/>
+      <text id="Permite_realizar_una_medición_constante_de_la_demanda_de_un_producto_y_analizar_cuáles_son_los_meses_donde_tiene_mucha_y_poca_demanda._Sirve_para_definir_la_cantidad_de_producto_disponible_para_la_comercialización_y_qué_hacer_con_los_excesos_de_inventario." data-name="Permite realizar una medición constante de la demanda de un producto y analizar cuáles son los meses donde tiene mucha y poca demanda. Sirve para definir la cantidad de producto disponible para la comercialización y qué hacer con los excesos de inventario." transform="translate(660.032 2477.5)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Permite realizar una medición constante de la demanda de </tspan><tspan x="0" y="36">un producto y analizar cuáles son los meses donde tiene </tspan><tspan x="0" y="57">mucha y poca demanda. Sirve para definir la cantidad de </tspan><tspan x="0" y="78">producto disponible para la comercialización y qué hacer </tspan><tspan x="0" y="99">con los excesos de inventario.</tspan></text>
+      <rect id="Rectángulo_42031" data-name="Rectángulo 42031" width="148.475" height="130.667" rx="6" transform="translate(495 2465)" fill="#1b3f5e" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Histogramas" transform="translate(568.5 2535.5)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-53.348" y="0">Histogramas</tspan></text>
+      <rect id="Rectángulo_42048" data-name="Rectángulo 42048" width="475.267" height="118.701" rx="6" transform="translate(629.66 2615.5)" fill="#fff59d"/>
+      <text id="Cuando_la_demanda_de_un_producto_es_sostenida_se_diseñan_indicadores_de_alerta_que_buscan_definir_qué_cantidad_de_inventario_se_debe_reaprovisionar_para_tener_la_cantidad_ideal_de_producto_disponible." data-name="Cuando la demanda de un producto es sostenida, se diseñan indicadores de alerta que buscan definir qué cantidad de inventario se debe reaprovisionar para tener la cantidad ideal de producto disponible." transform="translate(660.032 2629.5)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Cuando la demanda de un producto es sostenida, se </tspan><tspan x="0" y="36">diseñan indicadores de alerta que buscan definir qué </tspan><tspan x="0" y="57">cantidad de inventario se debe reaprovisionar para tener la </tspan><tspan x="0" y="78">cantidad ideal de producto disponible.</tspan></text>
+      <rect id="Rectángulo_42047" data-name="Rectángulo 42047" width="148.475" height="130.667" rx="6" transform="translate(495 2610)" fill="#1b3f5e" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Stock_mínimo" data-name="Stock mínimo" transform="translate(568.5 2681.5)" fill="#fff" font-size="18" font-family="Roboto-BoldItalic, Roboto" font-weight="700" letter-spacing="0.018em" font-style="italic"><tspan x="-57.118" y="0">Stock </tspan><tspan y="0" font-family="Roboto-Bold, Roboto" font-style="normal">mínimo</tspan></text>
+      <rect id="Rectángulo_42049" data-name="Rectángulo 42049" width="475.267" height="118.701" rx="6" transform="translate(629.66 2760.5)" fill="#fff59d"/>
+      <text id="Se_basa_en_la_combinación_de_software_y_hardware_que_gestiona_automáticamente_la_adquisición_de_productos_con_el_fin_de_mantener_disponibilidad_en_bodega_para_su_comercialización." data-name="Se basa en la combinación de software y hardware que gestiona automáticamente la adquisición de productos, con el fin de mantener disponibilidad en bodega para su comercialización." transform="translate(660.032 2774.5)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Se basa en la combinación de </tspan><tspan y="17" font-family="Roboto-Italic, Roboto" font-style="italic">software </tspan><tspan y="17">y</tspan><tspan y="17" xml:space="preserve" font-family="Roboto-Italic, Roboto" font-style="italic"> hardware</tspan><tspan y="17" xml:space="preserve"> que </tspan><tspan x="0" y="38">gestiona automáticamente la adquisición de productos, con </tspan><tspan x="0" y="59">el fin de mantener disponibilidad en bodega para su </tspan><tspan x="0" y="80">comercialización.</tspan></text>
+      <rect id="Rectángulo_42050" data-name="Rectángulo 42050" width="148.475" height="130.667" rx="6" transform="translate(495 2748)" fill="#1b3f5e" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Software_de_inventario" data-name="Software
+ de inventario" transform="translate(568.5 2815.5)" fill="#fff" font-size="18" font-family="Roboto-BoldItalic, Roboto" font-weight="700" letter-spacing="0.018em" font-style="italic"><tspan x="-36.866" y="0">Software</tspan><tspan font-family="Roboto-Bold, Roboto" font-style="normal"><tspan x="-56.972" y="22" xml:space="preserve"> de inventario</tspan></tspan></text>
+      <rect id="Rectángulo_42051" data-name="Rectángulo 42051" width="475.267" height="118.701" rx="6" transform="translate(629.66 2905.5)" fill="#fff59d"/>
+      <text id="Es_causa_de_una_relación_contractual_con_un_cliente_que_requiere_una_cantidad_fija_de_producto_en_un_determinado_tiempo." data-name="Es causa de una relación contractual con un cliente que requiere una cantidad fija de producto en un determinado tiempo." transform="translate(660.032 2931.5)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Es causa de una relación contractual con un cliente que </tspan><tspan x="0" y="36">requiere una cantidad fija de producto en un determinado </tspan><tspan x="0" y="57">tiempo.</tspan></text>
+      <rect id="Rectángulo_42052" data-name="Rectángulo 42052" width="148.475" height="130.667" rx="6" transform="translate(495 2893)" fill="#1b3f5e" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Demanda_fija" data-name="Demanda fija" transform="translate(568.5 2971.5)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-54.767" y="0">Demanda fija</tspan></text>
+    </g>
+  </g>
+</svg>

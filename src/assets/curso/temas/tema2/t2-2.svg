@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="804" viewBox="0 0 1240 804">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0f8ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_145104" data-name="Grupo 145104" transform="translate(1288 10664.506)">
+    <g id="Grupo_145102" data-name="Grupo 145102" transform="translate(-1468 -11805.506)">
+      <g id="Grupo_141998" data-name="Grupo 141998" transform="translate(180 1141)">
+        <rect id="Rectángulo_41974" data-name="Rectángulo 41974" width="804" height="295" transform="translate(0 804) rotate(-90)" opacity="0.798" fill="url(#linear-gradient)"/>
+        <rect id="Rectángulo_41975" data-name="Rectángulo 41975" width="804" height="295" transform="translate(1240) rotate(90)" opacity="0.798" fill="url(#linear-gradient)"/>
+        <g id="Grupo_141785" data-name="Grupo 141785" transform="translate(0 0.161)">
+          <path id="Trazado_114975" data-name="Trazado 114975" d="M812.618,386.057h-43.4l32.891,69.9-32.891,69.9h43.4l32.891-69.9Z" transform="translate(-769.221 -386.057)" fill="#f0f8ff"/>
+          <path id="Trazado_114976" data-name="Trazado 114976" d="M828.9,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-704.578 -386.057)" fill="#f0f8ff"/>
+          <path id="Trazado_114977" data-name="Trazado 114977" d="M845.189,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+          <path id="Trazado_114978" data-name="Trazado 114978" d="M861.475,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-575.292 -386.058)" fill="#f0f8ff"/>
+          <path id="Trazado_114979" data-name="Trazado 114979" d="M877.76,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-510.649 -386.058)" fill="#f0f8ff"/>
+        </g>
+        <g id="Grupo_141786" data-name="Grupo 141786" transform="translate(840 664.034)">
+          <path id="Trazado_114975-2" data-name="Trazado 114975" d="M802.111,525.862h43.4l-32.891-69.9,32.891-69.9h-43.4l-32.891,69.9Z" transform="translate(-445.509 -386.057)" fill="#f0f8ff"/>
+          <path id="Trazado_114976-2" data-name="Trazado 114976" d="M818.4,525.862h43.4l-32.89-69.9,32.89-69.9H818.4l-32.89,69.9Z" transform="translate(-542.722 -386.057)" fill="#f0f8ff"/>
+          <path id="Trazado_114977-2" data-name="Trazado 114977" d="M834.681,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+          <path id="Trazado_114978-2" data-name="Trazado 114978" d="M850.967,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-737.149 -386.057)" fill="#f0f8ff"/>
+          <path id="Trazado_114979-2" data-name="Trazado 114979" d="M867.251,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-834.362 -386.057)" fill="#f0f8ff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_145103" data-name="Grupo 145103" transform="translate(-1468 -12064.006)">
+      <rect id="Rectángulo_42030" data-name="Rectángulo 42030" width="475.267" height="118.701" rx="6" transform="translate(629.66 1452.5)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2"/>
+      <text id="Este_documento_tiene_el_mismo_peso_de_una_letra_de_cambio_ya_que_compromete_al_comprador_a_cancelar_los_conceptos_del_pedido_realizado." data-name="Este documento tiene el mismo peso de una letra de cambio, ya que compromete al comprador a cancelar los conceptos del pedido realizado." transform="translate(660.032 1475)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Este documento tiene el mismo peso de una letra de </tspan><tspan x="0" y="36">cambio, ya que compromete al comprador a cancelar los </tspan><tspan x="0" y="57">conceptos del pedido realizado.</tspan></text>
+      <rect id="Rectángulo_42031" data-name="Rectángulo 42031" width="148.475" height="130.667" rx="7" transform="translate(495 1446.5)" fill="#1b3f5e" stroke="#fffcdd" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Poseer_validez_legal" data-name="Poseer 
+validez legal" transform="translate(568.5 1507)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-31.69" y="0">Poseer </tspan><tspan x="-52.38" y="22">validez legal</tspan></text>
+      <rect id="Rectángulo_42048" data-name="Rectángulo 42048" width="475.267" height="118.701" rx="6" transform="translate(629.66 1597.5)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2"/>
+      <text id="Evidencia_de_todas_las_actividades_comerciales_con_el_comprador_lo_cual_es_útil_para_realizar_estrategias_de_ventas_y_control_de_movimientos_para_el_ente_fiscal." data-name="Evidencia de todas las actividades comerciales con el comprador, lo cual es útil para realizar estrategias de ventas y control de movimientos para el ente fiscal." transform="translate(660.032 1611)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Evidencia de todas las actividades comerciales con el </tspan><tspan x="0" y="36">comprador, lo cual es útil para realizar estrategias de ventas </tspan><tspan x="0" y="57">y control de movimientos para el ente fiscal.</tspan></text>
+      <rect id="Rectángulo_42047" data-name="Rectángulo 42047" width="148.475" height="130.667" rx="7" transform="translate(495 1591.5)" fill="#1b3f5e" stroke="#fffcdd" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Permitir_llevar_control_de_ventas_al_comprador" data-name="Permitir llevar 
+control 
+de ventas 
+al comprador" transform="translate(568.5 1630)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-61.866" y="0">Permitir llevar </tspan><tspan x="-31.839" y="22">control </tspan><tspan x="-42.767" y="44">de ventas </tspan><tspan x="-55.294" y="66">al comprador</tspan></text>
+      <rect id="Rectángulo_42049" data-name="Rectángulo 42049" width="475.267" height="118.701" rx="6" transform="translate(629.66 1742.5)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2"/>
+      <text id="Permite_conocer_con_un_mayor_grado_el_detalle_de_la_compra_con_requerimientos_específicos_que_se_deben_cumplir_en_caso_de_que_el_vendedor_acepte_las_condiciones_que_solicita_el_comprador." data-name="Permite conocer, con un mayor grado, el detalle de la compra, con requerimientos específicos que se deben cumplir en caso de que el vendedor acepte las condiciones que solicita el comprador." transform="translate(660.032 1756)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Permite conocer, con un mayor grado, el detalle de la </tspan><tspan x="0" y="36">compra, con requerimientos específicos que se deben </tspan><tspan x="0" y="57">cumplir en caso de que el vendedor acepte las condiciones </tspan><tspan x="0" y="78">que solicita el comprador.</tspan></text>
+      <rect id="Rectángulo_42050" data-name="Rectángulo 42050" width="148.475" height="130.667" rx="7" transform="translate(495 1736.5)" fill="#1b3f5e" stroke="#fffcdd" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Detallar_la_operación" data-name="Detallar 
+la operación" transform="translate(568.5 1797)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-34.998" y="0">Detallar </tspan><tspan x="-51.44" y="22">la operación</tspan></text>
+      <rect id="Rectángulo_42051" data-name="Rectángulo 42051" width="475.267" height="118.701" rx="6" transform="translate(629.66 1887.5)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2"/>
+      <text id="Este_documento_evita_desplazamientos_innecesarios_para_realizar_compras_generando_confianza_en_el_pedido_realizado." data-name="Este documento evita desplazamientos innecesarios
+para realizar compras, generando confianza en el pedido realizado." transform="translate(660.032 1913)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Este documento evita desplazamientos innecesarios</tspan><tspan x="0" y="36">para realizar compras, generando confianza en el pedido </tspan><tspan x="0" y="57">realizado.</tspan></text>
+      <rect id="Rectángulo_42052" data-name="Rectángulo 42052" width="148.475" height="130.667" rx="7" transform="translate(495 1881.5)" fill="#1b3f5e" stroke="#fffcdd" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Ahorrar_tiempo_al_comprador" data-name="Ahorrar tiempo 
+al comprador" transform="translate(568.5 1942)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-65.712" y="0">Ahorrar tiempo </tspan><tspan x="-55.294" y="22">al comprador</tspan></text>
+      <rect id="Rectángulo_42054" data-name="Rectángulo 42054" width="475.267" height="118.701" rx="6" transform="translate(629.66 2032.5)" fill="#f0f8ff" stroke="#1b3f5e" stroke-width="2"/>
+      <text id="El_documento_como_tal_ofrece_garantía_de_que_las_condiciones_de_compra_están_debidamente_oficializadas_y_que_los_términos_y_condiciones_están_consignados_en_detalle." data-name="El documento como tal ofrece garantía de que las condiciones de compra están debidamente oficializadas, 
+y que los términos y condiciones están consignados
+en detalle." transform="translate(660.032 2050)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">El documento como tal ofrece garantía de que las </tspan><tspan x="0" y="36">condiciones de compra están debidamente oficializadas, </tspan><tspan x="0" y="57">y que los términos y condiciones están consignados</tspan><tspan x="0" y="78">en detalle.</tspan></text>
+      <rect id="Rectángulo_42053" data-name="Rectángulo 42053" width="148.475" height="130.667" rx="7" transform="translate(495 2026.5)" fill="#1b3f5e" stroke="#fffcdd" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Ofrecer_tranquilidad" data-name="Ofrecer 
+tranquilidad" transform="translate(568.5 2087)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-33.719" y="0">Ofrecer </tspan><tspan x="-50.087" y="22">tranquilidad</tspan></text>
+    </g>
+  </g>
+</svg>

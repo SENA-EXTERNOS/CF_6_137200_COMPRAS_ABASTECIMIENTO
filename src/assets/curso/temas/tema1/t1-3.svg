@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="773" viewBox="0 0 1240 773">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0f8ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_145103" data-name="Grupo 145103" transform="translate(6299 10560)">
+    <g id="Grupo_145102" data-name="Grupo 145102" transform="translate(-6479 -11701)">
+      <g id="Grupo_141999" data-name="Grupo 141999">
+        <g id="Grupo_141998" data-name="Grupo 141998">
+          <rect id="Rectángulo_41974" data-name="Rectángulo 41974" width="773" height="295" transform="translate(180 1914) rotate(-90)" opacity="0.798" fill="url(#linear-gradient)"/>
+          <rect id="Rectángulo_41975" data-name="Rectángulo 41975" width="773" height="295" transform="translate(1420 1141) rotate(90)" opacity="0.798" fill="url(#linear-gradient)"/>
+          <g id="Grupo_141785" data-name="Grupo 141785" transform="translate(-48.863 1141.161)">
+            <path id="Trazado_114975" data-name="Trazado 114975" d="M812.618,386.057h-43.4l32.891,69.9-32.891,69.9h43.4l32.891-69.9Z" transform="translate(-540.358 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114976" data-name="Trazado 114976" d="M828.9,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-475.715 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114977" data-name="Trazado 114977" d="M845.189,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-411.072 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114978" data-name="Trazado 114978" d="M861.475,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-346.429 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114979" data-name="Trazado 114979" d="M877.76,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-281.786 -386.057)" fill="#f0f8ff"/>
+          </g>
+          <g id="Grupo_141786" data-name="Grupo 141786" transform="translate(1020 1774.034)">
+            <path id="Trazado_114975-2" data-name="Trazado 114975" d="M802.111,525.862h43.4l-32.891-69.9,32.891-69.9h-43.4l-32.891,69.9Z" transform="translate(-445.509 -386.058)" fill="#f0f8ff"/>
+            <path id="Trazado_114976-2" data-name="Trazado 114976" d="M818.4,525.862h43.4l-32.89-69.9,32.89-69.9H818.4l-32.89,69.9Z" transform="translate(-542.722 -386.058)" fill="#f0f8ff"/>
+            <path id="Trazado_114977-2" data-name="Trazado 114977" d="M834.681,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-639.935 -386.058)" fill="#f0f8ff"/>
+            <path id="Trazado_114978-2" data-name="Trazado 114978" d="M850.967,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-737.149 -386.058)" fill="#f0f8ff"/>
+            <path id="Trazado_114979-2" data-name="Trazado 114979" d="M867.251,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-834.362 -386.058)" fill="#f0f8ff"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectángulo_42030" data-name="Rectángulo 42030" width="475.267" height="86.733" rx="6" transform="translate(630.16 1198.982)" fill="#1b3f5e"/>
+      <text id="Permite_identificar_claramente_el_objeto_es_un_distintivo_único_dentro_de_los_elementos_de_disponibilidad." data-name="Permite identificar claramente el objeto; es un distintivo único dentro de los elementos de disponibilidad." transform="translate(660.532 1219.326)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Permite identificar claramente el objeto; es un distintivo </tspan><tspan x="0" y="36">único dentro de los elementos de disponibilidad.</tspan></text>
+      <rect id="Rectángulo_42031" data-name="Rectángulo 42031" width="148.475" height="98.699" rx="6" transform="translate(495.5 1193)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Nombre_del_objeto" data-name="Nombre 
+del objeto" transform="translate(569 1234.326)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-35.579" y="0">Nombre </tspan><tspan x="-41.378" y="22">del objeto</tspan></text>
+      <rect id="Rectángulo_42032" data-name="Rectángulo 42032" width="475.267" height="86.733" rx="6" transform="translate(630.16 1312.314)" fill="#1b3f5e"/>
+      <text id="El_código_que_le_otorga_la_organización_para_tener_un_control_más_técnico_en_la_disponibilidad_del_producto." data-name="El código que le otorga la organización para tener un control más técnico en la disponibilidad del producto." transform="translate(660.532 1332.659)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">El código que le otorga la organización para tener un control </tspan><tspan x="0" y="36">más técnico en la disponibilidad del producto.</tspan></text>
+      <rect id="Rectángulo_42033" data-name="Rectángulo 42033" width="148.475" height="98.699" rx="6" transform="translate(495.5 1306.5)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Código_de_identificación" data-name="Código de 
+identificación" transform="translate(569 1351)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-44.538" y="0">Código de </tspan><tspan x="-56.937" y="22">identificación</tspan></text>
+      <rect id="Rectángulo_42034" data-name="Rectángulo 42034" width="475.267" height="86.733" rx="6" transform="translate(630.16 1425.646)" fill="#1b3f5e"/>
+      <text id="Indica_el_monto_que_se_debe_pagar_para_vender_el_producto_este_debe_ser_actualizado_de_manera_periódica_teniendo_en_cuenta_factores_de_oferta_y_demanda." data-name="Indica el monto que se debe pagar para vender el producto; este debe ser actualizado de manera periódica, teniendo en cuenta factores de oferta y demanda." transform="translate(660.532 1435.196)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Indica el monto que se debe pagar para vender el producto; </tspan><tspan x="0" y="36">este debe ser actualizado de manera periódica, teniendo en </tspan><tspan x="0" y="57">cuenta factores de oferta y demanda.</tspan></text>
+      <rect id="Rectángulo_42035" data-name="Rectángulo 42035" width="148.475" height="98.699" rx="6" transform="translate(495.5 1419.5)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Valor_del_objeto" data-name="Valor del 
+objeto" transform="translate(569 1465)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-39.528" y="0">Valor del </tspan><tspan x="-26.166" y="21">objeto</tspan></text>
+      <rect id="Rectángulo_42036" data-name="Rectángulo 42036" width="475.267" height="86.733" rx="6" transform="translate(630.16 1538.978)" fill="#1b3f5e"/>
+      <text id="Indica_si_se_encuentra_disponible_para_su_comercialización_o_no_se_encuentra_en_stock." data-name="Indica si se encuentra disponible para su comercialización o no se encuentra en stock." transform="translate(660.532 1559.321)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Indica si se encuentra disponible para su comercialización o </tspan><tspan x="0" y="36">no se encuentra en stock.</tspan></text>
+      <rect id="Rectángulo_42037" data-name="Rectángulo 42037" width="148.475" height="98.699" rx="6" transform="translate(495.5 1532.5)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Estado_del_producto" data-name="Estado del 
+producto" transform="translate(569 1577)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-46.141" y="0">Estado del </tspan><tspan x="-37.213" y="22">producto</tspan></text>
+      <rect id="Rectángulo_42038" data-name="Rectángulo 42038" width="475.267" height="86.733" rx="6" transform="translate(630.16 1652.309)" fill="#1b3f5e"/>
+      <text id="Indica_cuándo_fue_la_última_revisión_de_conteo_físico_y_actualización_de_su_valor_de_objeto_debe_sujetarse_a_las_políticas_de_inventarios_que_tenga_cada_organización." data-name="Indica cuándo fue la última revisión de conteo físico y actualización de su valor de objeto; debe sujetarse a las políticas de inventarios que tenga cada organización." transform="translate(660.532 1665.456)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Indica cuándo fue la última revisión de conteo físico y </tspan><tspan x="0" y="36">actualización de su valor de objeto; debe sujetarse a las </tspan><tspan x="0" y="57">políticas de inventarios que tenga cada organización.</tspan></text>
+      <rect id="Rectángulo_42039" data-name="Rectángulo 42039" width="148.475" height="98.699" rx="6" transform="translate(495.5 1646.5)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Actualización_del_objeto_o_producto" data-name="Actualización 
+del objeto 
+o producto" transform="translate(569 1680)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-59.384" y="0">Actualización </tspan><tspan x="-43.781" y="22">del objeto </tspan><tspan x="-44.867" y="44">o producto</tspan></text>
+      <rect id="Rectángulo_42040" data-name="Rectángulo 42040" width="475.267" height="86.733" rx="6" transform="translate(630.16 1765.641)" fill="#1b3f5e"/>
+      <text id="Indica_si_es_un_producto_que_tiene_mucha_o_poca_comercialización_en_el_mercado_y_sirve_para_los_procesos_de_reaprovisionamiento_antes_de_caer_en_roturas_de_stock." data-name="Indica si es un producto que tiene mucha o poca comercialización en el mercado, y sirve para los procesos de reaprovisionamiento antes de caer en roturas de stock." transform="translate(660.532 1775.19)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Indica si es un producto que tiene mucha o poca </tspan><tspan x="0" y="36">comercialización en el mercado, y sirve para los procesos </tspan><tspan x="0" y="57">de reaprovisionamiento antes de caer en roturas de stock.</tspan></text>
+      <rect id="Rectángulo_42041" data-name="Rectángulo 42041" width="148.475" height="98.699" rx="6" transform="translate(495.5 1759.5)" fill="#fff59d" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <text id="Rotación_del_objeto" data-name="Rotación 
+del objeto" transform="translate(569 1804)" fill="#1b3f5e" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.018em"><tspan x="-39.445" y="0">Rotación </tspan><tspan x="-41.378" y="22">del objeto</tspan></text>
+    </g>
+  </g>
+</svg>

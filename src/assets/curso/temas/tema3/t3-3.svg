@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="678.077" viewBox="0 0 1240 678.077">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0f8ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_145071" data-name="Grupo 145071" transform="translate(-2053 9642)">
+    <g id="Grupo_145069" data-name="Grupo 145069" transform="translate(1873 -11038)">
+      <g id="Grupo_141999" data-name="Grupo 141999" transform="translate(180 1396)">
+        <g id="Grupo_141998" data-name="Grupo 141998" transform="translate(0 0)">
+          <rect id="Rectángulo_41974" data-name="Rectángulo 41974" width="678" height="295" transform="translate(0 678) rotate(-90)" opacity="0.798" fill="url(#linear-gradient)"/>
+          <rect id="Rectángulo_41975" data-name="Rectángulo 41975" width="678" height="295" transform="translate(1240) rotate(90)" opacity="0.798" fill="url(#linear-gradient)"/>
+          <g id="Grupo_141785" data-name="Grupo 141785" transform="translate(0 0.161)">
+            <path id="Trazado_114975" data-name="Trazado 114975" d="M812.618,386.057h-43.4l32.891,69.9-32.891,69.9h43.4l32.891-69.9Z" transform="translate(-769.221 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114976" data-name="Trazado 114976" d="M828.9,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-704.578 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114977" data-name="Trazado 114977" d="M845.189,386.057h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114978" data-name="Trazado 114978" d="M861.475,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-575.292 -386.058)" fill="#f0f8ff"/>
+            <path id="Trazado_114979" data-name="Trazado 114979" d="M877.76,386.058h-43.4l32.89,69.9-32.89,69.9h43.4l32.89-69.9Z" transform="translate(-510.649 -386.058)" fill="#f0f8ff"/>
+          </g>
+          <g id="Grupo_141786" data-name="Grupo 141786" transform="translate(840 538.272)">
+            <path id="Trazado_114975-2" data-name="Trazado 114975" d="M802.111,525.862h43.4l-32.891-69.9,32.891-69.9h-43.4l-32.891,69.9Z" transform="translate(-445.509 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114976-2" data-name="Trazado 114976" d="M818.4,525.862h43.4l-32.89-69.9,32.89-69.9H818.4l-32.89,69.9Z" transform="translate(-542.722 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114977-2" data-name="Trazado 114977" d="M834.681,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-639.935 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114978-2" data-name="Trazado 114978" d="M850.967,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-737.149 -386.057)" fill="#f0f8ff"/>
+            <path id="Trazado_114979-2" data-name="Trazado 114979" d="M867.251,525.862h43.4l-32.89-69.9,32.89-69.9h-43.4l-32.89,69.9Z" transform="translate(-834.362 -386.057)" fill="#f0f8ff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_145070" data-name="Grupo 145070" transform="translate(1873 -11536)">
+      <rect id="Rectángulo_42082" data-name="Rectángulo 42082" width="210.119" height="86.45" rx="4" transform="translate(529.78 1940)" fill="#1b3f5e"/>
+      <rect id="Rectángulo_42083" data-name="Rectángulo 42083" width="279.679" height="171.4" rx="4" transform="translate(495 2061.933)" fill="#fff59d"/>
+      <text id="Los_pronósticos_no_son_100_acertados" data-name="Los pronósticos 
+no son 100% 
+acertados" transform="translate(633.284 1965.634)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="-73.955" y="0">Los pronósticos </tspan><tspan x="-59.194" y="24">no son 100% </tspan><tspan x="-44.805" y="48">acertados</tspan></text>
+      <rect id="Rectángulo_42084" data-name="Rectángulo 42084" width="210.119" height="86.45" rx="4" transform="translate(860.472 1940)" fill="#1b3f5e"/>
+      <text id="Necesidad_de_base_sólida" data-name="Necesidad de
+ base sólida" transform="translate(960.005 1977.244)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="-57.64" y="0">Necesidad de</tspan><tspan x="-50.585" y="23" xml:space="preserve"> base sólida</tspan></text>
+      <text id="Difícilmente_los_pronósticos_acertarán_en_sus_predicciones_lo_que_ofrece_es_un_panorama_general_para_establecer_planes_de_acción_generales_en_condiciones_normales_de_mercado." data-name="Difícilmente los pronósticos acertarán en sus predicciones, lo que ofrece es un panorama general para establecer planes de acción generales en condiciones normales
+ de mercado." transform="translate(515.705 2073.758)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="19.462" y="15">Difícilmente los pronósticos </tspan><tspan x="2.052" y="36">acertarán en sus predicciones, lo </tspan><tspan x="21.767" y="57">que ofrece es un panorama </tspan><tspan x="10.196" y="78">general para establecer planes </tspan><tspan x="37.216" y="99">de acción generales en </tspan><tspan x="40.372" y="120">condiciones normales</tspan><tspan x="72.478" y="141" xml:space="preserve"> de mercado.</tspan></text>
+      <rect id="Rectángulo_42085" data-name="Rectángulo 42085" width="279.679" height="171.4" rx="4" transform="translate(825.692 2061.933)" fill="#fff59d"/>
+      <text id="Para_la_generación_de_predicciones_más_precisas_es_necesario_contar_con_bases_o_fuentes_de_información_más_técnicas_y_confiables." data-name="Para la generación de predicciones más precisas es necesario contar con bases o fuentes de información más técnicas y confiables." transform="translate(846.741 2093.996)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="42.161" y="15">Para la generación de </tspan><tspan x="13.439" y="36">predicciones más precisas es </tspan><tspan x="14.212" y="57">necesario contar con bases o </tspan><tspan x="18.923" y="78">fuentes de información más </tspan><tspan x="42.142" y="99">técnicas y confiables.</tspan></text>
+      <rect id="Rectángulo_42086" data-name="Rectángulo 42086" width="210.119" height="86.45" rx="4" transform="translate(529.78 2261.721)" fill="#1b3f5e"/>
+      <rect id="Rectángulo_42087" data-name="Rectángulo 42087" width="279.679" height="154.053" rx="4" transform="translate(495 2383.653)" fill="#fff59d"/>
+      <text id="Pronósticos_cortos_más_precisos" data-name="Pronósticos 
+cortos 
+más precisos" transform="translate(634.047 2287.354)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="-55.938" y="0">Pronósticos </tspan><tspan x="-31.069" y="24">cortos </tspan><tspan x="-59.712" y="48">más precisos</tspan></text>
+      <rect id="Rectángulo_42088" data-name="Rectángulo 42088" width="210.119" height="86.45" rx="4" transform="translate(860.472 2261.721)" fill="#1b3f5e"/>
+      <text id="Los_pronósticos_no_son_generalistas" data-name="Los pronósticos
+no son generalistas" transform="translate(956.229 2298.965)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="-67.906" y="0">Los pronósticos</tspan><tspan x="-82.434" y="23">no son generalistas</tspan></text>
+      <text id="Ofrecen_mayor_confiablidad_para_generar_planes_o_programas_que_favorezcan_el_incremento_en_ventas_debido_a_los_cambios_económicos_en_el_sector." data-name="Ofrecen mayor confiablidad para generar planes o programas que favorezcan el incremento en ventas debido a los cambios económicos en el sector." transform="translate(515.705 2396.604)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="3.126" y="15">Ofrecen mayor confiablidad para </tspan><tspan x="4.005" y="36">generar planes o programas que </tspan><tspan x="18.665" y="57">favorezcan el incremento en </tspan><tspan x="17.4" y="78">ventas debido a los cambios </tspan><tspan x="30.243" y="99">económicos en el sector.</tspan></text>
+      <rect id="Rectángulo_42089" data-name="Rectángulo 42089" width="279.679" height="154.053" rx="4" transform="translate(825.692 2383.653)" fill="#fff59d"/>
+      <text id="Las_predicciones_en_ventas_son_más_acertadas_para_productos_o_tipos_de_productos_puntuales_no_para_líneas_generales_de_productos." data-name="Las predicciones en ventas son más acertadas para productos
+o tipos de productos puntuales no para líneas generales 
+de productos." transform="translate(846.741 2403.717)" fill="#1b3f5e" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="7.298" y="15">Las predicciones en ventas son </tspan><tspan x="9.974" y="36">más acertadas para productos</tspan><tspan x="8.821" y="57">o tipos de productos puntuales </tspan><tspan x="32.497" y="78">no para líneas generales </tspan><tspan x="69.942" y="99">de productos.</tspan></text>
+      <g id="Grupo_142048" data-name="Grupo 142048" transform="translate(627.452 2024.745)">
+        <line id="Línea_204" data-name="Línea 204" y2="14.012" transform="translate(7.529)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Polígono_26" data-name="Polígono 26" d="M260.872,134.686l-7.715-15.163,14.776-.317Z" transform="translate(-253.157 -106.444)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_142049" data-name="Grupo 142049" transform="translate(958.145 2024.745)">
+        <line id="Línea_205" data-name="Línea 205" y2="14.012" transform="translate(7.528)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Polígono_26-2" data-name="Polígono 26" d="M449.676,134.686l-7.715-15.163,14.774-.317Z" transform="translate(-441.961 -106.444)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_142050" data-name="Grupo 142050" transform="translate(627.452 2348.343)">
+        <line id="Línea_206" data-name="Línea 206" y2="14.012" transform="translate(7.529)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Polígono_26-3" data-name="Polígono 26" d="M260.872,338.259l-7.715-15.165,14.776-.317Z" transform="translate(-253.157 -310.016)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_142051" data-name="Grupo 142051" transform="translate(958.145 2348.343)">
+        <line id="Línea_207" data-name="Línea 207" y2="14.012" transform="translate(7.528)" fill="none" stroke="#12263f" stroke-width="2"/>
+        <path id="Polígono_26-4" data-name="Polígono 26" d="M449.676,338.259l-7.715-15.165,14.774-.317Z" transform="translate(-441.961 -310.016)" fill="#12263f"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="585.106" viewBox="0 0 1328 585.106">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-989" y="-484" width="1328" height="585.106" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_145073" data-name="Grupo 145073" transform="translate(-136 -349.258)">
+    <g id="Grupo_de_desplazamiento_4" data-name="Grupo de desplazamiento 4" transform="translate(1125 833.258)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Grupo_129284" data-name="Grupo 129284" transform="translate(523.863 103.106) rotate(180)">
+        <path id="Trazado_114975" data-name="Trazado 114975" d="M801.226,386.057H769.221l24.257,51.553-24.257,51.553h32.005l24.257-51.553Z" transform="translate(-540.358 -386.057)" fill="#fffcdd"/>
+        <path id="Trazado_114976" data-name="Trazado 114976" d="M817.512,386.057H785.506l24.257,51.553-24.257,51.553h32.006l24.257-51.553Z" transform="translate(-496.958 -386.057)" fill="#fffcdd"/>
+        <path id="Trazado_114977" data-name="Trazado 114977" d="M833.8,386.057H801.791l24.256,51.553-24.256,51.553H833.8l24.257-51.553Z" transform="translate(-453.559 -386.057)" fill="#fffcdd"/>
+        <path id="Trazado_114978" data-name="Trazado 114978" d="M850.083,386.058H818.077l24.256,51.553-24.256,51.553h32.006l24.256-51.553Z" transform="translate(-410.16 -386.057)" fill="#fffcdd"/>
+        <path id="Trazado_114979" data-name="Trazado 114979" d="M866.368,386.058H834.362l24.257,51.553-24.257,51.553h32.006l24.256-51.553Z" transform="translate(-366.761 -386.057)" fill="#fffcdd"/>
+      </g>
+    </g>
+  </g>
+</svg>
