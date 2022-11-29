@@ -3,9 +3,14 @@ export default {
     componenteFormativo: 'Planes y programas de compras',
     descripcionCurso:
       'Este componente formativo tiene como objetivo que el aprendiz adquiera conocimientos sobre el proceso de compra para adquirir bienes y servicios más rentables para la organización, conociendo sobre las políticas de compras que se deben llevar a cabo, con una debida planeación y puesta en marcha del plan de compras en la cadena de suministro de cada empresa.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [],
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1'],
+        imagen: require('@/assets/curso/portada/banner-princiapal.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [

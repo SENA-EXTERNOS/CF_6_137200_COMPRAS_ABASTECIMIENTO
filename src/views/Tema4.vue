@@ -10,7 +10,7 @@
     .t4-bkg
       .row.justify-content-center
         .col-lg-2
-          img(src='@/assets/curso/temas/tema4/t4-1.svg', alt='Texto que describa la imagen').img-movil
+          img(src='@/assets/curso/temas/tema4/t4-1.svg', alt='Texto que describa la imagen').img-movil.img
         .col-lg-10
           p La verificación de los productos adquiridos en el proceso de compra se realiza a nivel interno. Consiste en revisar los aspectos relevantes que tienen que ver con las órdenes de pedidos emitidos, donde se revisan las cantidades, calidades y referencias, además de requerimientos técnicos como certificaciones de calidad, empaques, entre otros. 
       

@@ -1,18 +1,16 @@
 .banner-principal-decorativo
   &-1
-    animation: banner 3s linear 0s infinite alternate forwards; 
+    animation: scale 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
+    top: -90%
     right: 30%
+    z-index: 0   
+    width: 50%
 
-.banner-principal__img 
-  width: 33%
-  z-index: 0
+
+/*.banner-principal__img 
+  width: 30%
+ 
 
 .banner-interno__fondo
   background-image: url("../assets/curso/portada/banner-interno.png") !important
@@ -237,9 +235,12 @@
 //tamaño imagenes movil-------
 @media ( max-width: 500px )
   .img-movil
-    margin-left: 70px;
-    width: 50%;
-    margin-bottom: 10px;
+    margin-left: 70px; 
+    width: 50% !important
+    margin-bottom: 10px; 
+.img
+  width: 70%;
+  margin-bottom: 30px;
 //-----------------------------
 
 //background para SlyderB  
@@ -261,6 +262,7 @@
   color: #D84318 !important
   font-size: 18px
 //-----------------------------    
+
 
 //tabsA------------------------
 .tabs-a__tab
@@ -297,7 +299,7 @@
 
 //custom tarjeta descarga
 .color-descarga
-  background-color: #1b418ad6
+  background: linear-gradient(0deg, #1E43D0 41%, rgba(91, 128, 181, 0.99) 90%);
 .icono
   width: 50px
   @media ( max-width: 500px )
@@ -311,7 +313,13 @@
   @media ( max-width: 500px )
     p
       font-size: 1em
-//------------------------------------      
+//------------------------------------     
+
+// tamaño puntos calientes
+.img-infografica.color-acento-botones .img-infografica__item__numero
+  font-size: 1.2em;
+  @media ( max-width: 500px )
+    font-size: 0.9em
 
 //estilos para tarjetas conectadas T10
 .color1
@@ -333,6 +341,13 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes scale
+  0%
+    transform: scale(1)
+
+  100%
+    transform: scale(1.2)    
 
 
 	
