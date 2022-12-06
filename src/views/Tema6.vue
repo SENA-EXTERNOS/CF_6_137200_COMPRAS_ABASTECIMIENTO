@@ -147,12 +147,13 @@
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.mt-3 6.3 Protocolos
 
-    .row.justify-content-center
-      .col-lg-4
-        img(src='@/assets/curso/temas/tema6/t6-10.svg', alt='Texto que describa la imagen').mb-3        
-      .col-lg-8
-        p El protocolo de compras es el detalle del procedimiento que sirve para la gestión documental en la empresa. En este se detallan aspectos como los responsables de cada actividad, documentos de soporte que se utilizan o se encuentran depositados en un lugar accesible para cualquier colaborador que esté relacionado con el proceso de compras, además de un ítem muy importante: la forma como se debe interactuar con el cliente o el proveedor, por medio de la comunicación y el lenguaje que utiliza la empresa, según el área de comunicaciones.  El protocolo de compras debe ser comprensible, contar con suficiente información y resolver las dudas de los clientes internos y externos.
-        p ¿Y en cuanto al flujo de proceso?
+    .t6-bkg2
+      .row.justify-content-center
+        .col-lg-4
+          img(src='@/assets/curso/temas/tema6/t6-10.svg', alt='Texto que describa la imagen').mb-3        
+        .col-lg-8
+          p El protocolo de compras es el detalle del procedimiento que sirve para la gestión documental en la empresa. En este se detallan aspectos como los responsables de cada actividad, documentos de soporte que se utilizan o se encuentran depositados en un lugar accesible para cualquier colaborador que esté relacionado con el proceso de compras, además de un ítem muy importante: la forma como se debe interactuar con el cliente o el proveedor, por medio de la comunicación y el lenguaje que utiliza la empresa, según el área de comunicaciones.  El protocolo de compras debe ser comprensible, contar con suficiente información y resolver las dudas de los clientes internos y externos.
+          p ¿Y en cuanto al flujo de proceso?
 
     separador
 
