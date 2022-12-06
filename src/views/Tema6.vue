@@ -163,7 +163,7 @@
       .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-4
         .bloque-texto-g2__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema6/t6-11.svg')})`}")
         .bloque-texto-g2__texto.p-4
-          p Para ilustrar de una manera más técnica el procedimiento del Plan Anual de Adquisiciones dentro de una organización, a continuación se muestra un ejemplo del flujograma que se usaría para hacer la representación gráfica de los pasos, que están en amarillo, los puntos de control, en color rosa y los puntos de decisión, representados con rombos naranja, hasta llevar a feliz término el procedimiento.
+          p.text-bold Para ilustrar de una manera más técnica el procedimiento del Plan Anual de Adquisiciones dentro de una organización, a continuación se muestra un ejemplo del flujograma que se usaría para hacer la representación gráfica de los pasos, que están en amarillo, los puntos de control, en color rosa y los puntos de decisión, representados con rombos naranja, hasta llevar a feliz término el procedimiento.
 
     .row.justify-content-center.mt-5
       .col-auto

@@ -79,7 +79,7 @@
       p En la cadena de suministro pueden presentarse más o menos eslabones, dependiendo quiénes sean los clientes de la organización; por lo tanto, existen dos tipos de eslabones, los internos y los externos.
       .col-auto.mt-5
         img(src='@/assets/curso/temas/tema9/t9-7.svg', alt='Texto que describa la imagen').mb-3
-      p.text-bold.mt-3 Dentro de la cadena de suministros, también están las regulaciones de los parámetros de planeación.
+      p.mt-3 Dentro de la cadena de suministros, también están las regulaciones de los parámetros de planeación.
 
     separador
     #t_9_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")

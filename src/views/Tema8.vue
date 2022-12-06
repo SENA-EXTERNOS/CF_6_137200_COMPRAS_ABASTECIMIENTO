@@ -54,7 +54,7 @@
         .row.justify-content-center
           .col-md-8
             h2 #[em Microsoft Project:]
-            p Es un programa informático que permite gestionar proyectos y sus fases de una manera clara, para la asistencia a administradores de proyectos. En la gestión de compras se puede utilizar cuando el proceso es muy técnico y extenso. La ventaja de este software es que permite crear una ruta crítica, facilitando la nivelación de los recursos y la visibilidad clara de los puntos clave de un plan de compras.
+            p Es un programa informático que permite gestionar proyectos y sus fases de una manera clara, para la asistencia a administradores de proyectos. En la gestión de compras se puede utilizar cuando el proceso es muy técnico y extenso. La ventaja de este #[em software] es que permite crear una ruta crítica, facilitando la nivelación de los recursos y la visibilidad clara de los puntos clave de un plan de compras.
           .col-md-4
             figure
              img(src='@/assets/curso/temas/tema8/t8-5.svg', alt='Texto que describa la imagen').mt-2   

@@ -56,7 +56,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Tipos de pronósticos',
+            titulo: 'Características',
             hash: 't_2_1',
           },
           {

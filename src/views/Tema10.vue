@@ -102,8 +102,8 @@
 
     .row.justify-content-center
       .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-4
-        .bloque-texto-g2__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema10/t10-8.svg')})`}")
-        .bloque-texto-g2__texto.p-4
+        .bloque-texto-g3__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema10/t10-8.svg')})`}")
+        .bloque-texto-g3__texto.p-4
           p Las entidades estatales deben escoger a sus contratistas (proveedores) a través de alguna de las modalidades de selección previstas en la Ley 1150 de 2007: (i) licitación pública; (ii) selección abreviada; (iii) concurso de méritos; (iv) contratación directa; (v) mínima cuantía (Función Pública, 2018).  En el Anexo 1 - Modalidades de Selección del Contratista se amplía esta información.
       p.mt-5 De acuerdo con lo anterior, a continuación se presenta la síntesis de este componente formativo.
 

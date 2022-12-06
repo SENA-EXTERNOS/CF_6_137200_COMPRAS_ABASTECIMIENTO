@@ -10,8 +10,8 @@
     .t5-bkg
       .row.justify-content-center
         .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-4
-          .bloque-texto-g1__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema7/t7-1.svg')})`}")
-          .bloque-texto-g1__texto.p-4
+          .bloque-texto-g3__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema7/t7-1.svg')})`}")
+          .bloque-texto-g3__texto.p-4
             p El plan de compras es un documento que sirve de herramienta para planificar la gestión de compras dentro de una organización, allí podemos incluir diversas necesidades, como son materias primas, insumos, maquinarias, tecnologías y los servicios que una empresa pueda requerir y proyectar a futuro. Las ventajas de diseñar un plan de compras están en la obtención al pasar el tiempo de mejores proveedores nacionales o internacionales, mejores calidades en bienes y mejores precios por comprar al por mayor (economía de escala); también se pueden obtener mejores condiciones en las negociaciones (valores agregados, soporte, logística, etc.). Todas las actividades que se realicen mejorarán la rentabilidad de la organización, permitiendo realizar inversiones en proyectos futuros, o incluso, en ofrecer bienes y servicios más favorables a los clientes para fortalecerse en el mercado.
        
         p.text-bold.mt-5 Para ver los tipos de plan de compras, veamos lo siguiente.
