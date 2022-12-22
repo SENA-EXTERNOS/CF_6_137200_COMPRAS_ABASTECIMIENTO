@@ -350,21 +350,22 @@ export default {
   },
   complementario: [
     {
-      tema: 'Gestión de inventarios',
+      tema: 'Disponibilidad de producto',
       referencia:
-        'Antonia Cruz Fernández, (2017). <em>UF0476 Gestión de inventarios.</em>',
+        'Antonia Cruz Fernández, (2017). <em>UF0476 Gestión de inventarios</em>. IC Editorial.',
       tipo: 'Manual',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10484',
     },
     {
-      tema: 'ISO 31000 Gestión del riesgo. Directrices',
-      referencia: 'ICONTEC - Instituto Colombiano de Normas Técnicas, 2018 ',
+      tema: 'Contingencias',
+      referencia:
+        'Henao, G. J. C., González, E. M. R., & Moreno, J. C. A. (2017). Evolución de la cultura de la gestión de riesgos en el entorno empresarial colombiano: revisión y diagnóstico. Journal of Engineering and Technology, 6(1), 22-45.',
       tipo: 'Norma NTC 31000',
-      link: '',
+      link:
+        'http://repository.unilasallista.edu.co/dspace/bitstream/10567/2058/1/Evoluci%c3%b3n%20de%20la%20cultura%20de%20la%20gesti%c3%b3n%20de%20riesgos%20en%20el%20entorno%20empresarial%20colombiano%20revisi%c3%b3n%20y%20diagn%c3%b3stico.pdf',
     },
     {
-      tema:
-        'Decreto 4170 de 2011, “Por el cual se crea la Agencia Nacional de Contratación Pública -Colombia Compra Eficiente-, se determinan sus objetivos y estructura.”',
+      tema: 'Contratación pública',
       referencia:
         'Departamento Administrativo de la Función Pública, (2011), Decreto 4170 de 2011',
       tipo: 'PDF',
@@ -372,7 +373,7 @@ export default {
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=44643',
     },
     {
-      tema: 'I-BS-02-instructivo-elaboracion-analisis-sector.pdf',
+      tema: 'Estudios del sector',
       referencia:
         'Presidencia de la República, (2020), I-BS-02-instructivo-elaboracion-analisis-sector.',
       tipo: 'PDF',
@@ -380,7 +381,7 @@ export default {
         'https://dapre.presidencia.gov.co/dapre/DocumentosSIGEPRE/I-BS-02-instructivo-elaboracion-analisis-sector.pdf',
     },
     {
-      tema: 'Guía para la Elaboración de Estudios de Sector',
+      tema: 'Estudios del sector',
       referencia:
         'Colombia compra eficiente, (2020) Guía para la Elaboración de Estudios de Sector',
       tipo: 'PDF',
@@ -388,7 +389,7 @@ export default {
         'http://www.nuevalegislacion.com/files/susc/cdj/doct/guia_es_14.pdf',
     },
     {
-      tema: 'DAPRE-Plan-Anual-Adquisiciones-2022',
+      tema: 'Plan anual de adquisiciones',
       referencia:
         'Presidencia de la República, (2022), DAPRE-Plan-Anual-Adquisiciones-2022.',
       tipo: 'PDF',
@@ -396,7 +397,7 @@ export default {
         'https://dapre.presidencia.gov.co/dapre/DocumentosPresupuesto/DAPRE-Plan-Anual-Adquisiciones-2022.pdf',
     },
     {
-      tema: 'Demanda',
+      tema: 'Cadena de suministro',
       referencia: 'Peiro, A. (2015). <em>Demanda</em>. Economipedia.',
       tipo: 'Página',
       link: 'https://economipedia.com/definiciones/demanda.html',

@@ -9,11 +9,7 @@
 
     .row.justify-content-center
       p Una cadena de suministro se describe como la suma de los esfuerzos de todas las áreas de una organización para satisfacer el requerimiento de un cliente. Esta comienza desde los proveedores de materias primas e insumos, los procesos internos para la transformación y gestión de inventario y bodegaje, hasta el prestador de servicios logísticos de transporte que lleva el producto o servicio hasta el cliente final.
-      p Los principales eslabones de la cadena de suministro son: 
 
-    .row.justify-content-center.mt-5
-      .col-auto
-        img(src='@/assets/curso/temas/tema9/t9-1.svg', alt='Texto que describa la imagen').mb-3
       
       p.mt-3 Una cadena de suministro debe cumplir con características importantes como: 
 
