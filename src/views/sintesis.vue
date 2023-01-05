@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Estimado aprendiz, lo invitamos a ver el siguiente mapa conceptual, donde encontrará una síntesis de todos los elementos desarrollados en este componente formativo acerca de los planes y programas de compras.
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
     
 
     .row.justify-content-center

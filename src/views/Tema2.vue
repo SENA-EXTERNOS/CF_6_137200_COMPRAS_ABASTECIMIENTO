@@ -9,37 +9,25 @@
 
     .row.justify-content-center
       .col-lg-6
-        img(src='@/assets/curso/temas/tema2/t2-1.svg', alt='Texto que describa la imagen').mb-3
+        img(src='@/assets/curso/temas/tema2/t2-1.svg', alt='').mb-3
       .col-lg-6
         .bloque-texto-1
           .bloque-texto-1__texto
-            p.mb-0 Hay un aspecto muy importante: la orden de pedido, también conocida como orden de compra. Estas son un tipo de documento que tiene la función principal de hacer un requerimiento de mercancía a un proveedor o vendedor; se realizan de manera regular y se espera que coincidan con las facturas emitidas por el proveedor de la mercancía. La orden de pedido es usada tanto en comercio regular como en comercio internacional (factura proforma).
+            p.mb-0 Posterior a la caracterización de la disponibilidad de productos, hay un aspecto muy importante: la <b>orden de pedido</b>, también conocida como <b>orden de compra</b>. Ambas son un tipo de documento que tiene la función principal de hacer un requerimiento de mercancía a un proveedor o vendedor; se realizan de manera regular y se espera que coincidan con las facturas emitidas por el proveedor de la mercancía. La orden de pedido es usada, tanto en comercio regular como en comercio internacional (factura proforma).
 
-      p.mt-5.text-bold ¿Qué características tiene la orden de pedido?
-
-    separador
-
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 2.1 Características 
+    h4.my-4 Características de la orden de pedido
 
     .row.justify-content-center.mt-5
       p.text-bold En una orden de compra legítima son necesarias las siguientes características:
       .col-auto.mt-2
-        img(src='@/assets/curso/temas/tema2/t2-2.svg', alt='Texto que describa la imagen')      
-      
-      p.mt-5.text-bold ¿Y qué validaciones necesita la orden de pedido? 
+        img(src='@/assets/curso/temas/tema2/t2-2.svg', alt='')      
 
-    separador
-
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 2.2 Validaciones 
-
+    h4.my-4 Validaciones de las órdenes de pedido
+    p Las órdenes de pedido u órdenes de compra, deben contar con ciertas validaciones para que su uso y funcionalidad sean efectivas. Conozca en detalle sobre tales validaciones, visualizando con atención el siguiente video. Procure llevar registro de lo más destacado en su libreta personal de apuntes.
     .row.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption VIDEO   
-
-      p.mt-5.text-bold Profundicemos más sobre esta teoría.       
+  
 
 </template>
 

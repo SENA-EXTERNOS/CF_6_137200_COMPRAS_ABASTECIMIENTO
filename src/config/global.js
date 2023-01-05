@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Planes y programas de compras',
     descripcionCurso:
-      'Este componente formativo tiene como objetivo que el aprendiz adquiera conocimientos sobre el proceso de compra para adquirir bienes y servicios más rentables para la organización, conociendo sobre las políticas de compras que se deben llevar a cabo, con una debida planeación y puesta en marcha del plan de compras en la cadena de suministro de cada empresa.',
+      'Este componente formativo tiene como objetivo que el aprendiz adquiera conocimientos sobre el proceso de compra en función de la adquisición de bienes y servicios más rentables para la organización; ello, conociendo sobre las políticas de compras que se deben llevar a cabo, con una debida planeación y puesta en marcha del plan de compras en la cadena de suministro de cada empresa. ',
 
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,20 +31,6 @@ export default {
         numero: '1',
         titulo: 'Disponibilidad de producto',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Características',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Métodos',
-            hash: 't_1_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -52,140 +38,34 @@ export default {
         numero: '2',
         titulo: 'Orden de pedido',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Características',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Validaciones',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Pronósticos',
+        titulo: 'Pronósticos de compra',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Tipos de pronósticos',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Características',
-            hash: 't_3_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Verificación',
+        titulo: 'Verificación de los productos adquiridos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Tipos de verificación',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Características e importancia',
-            hash: 't_4_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Programación',
+        titulo: 'Programación de la compra',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Tipos de programación',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Características',
-            hash: 't_5_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.3',
-            titulo: 'Metodologías',
-            hash: 't_5_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.4',
-            titulo: 'Alcance',
-            hash: 't_5_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
-        titulo: 'Compras',
+        titulo: 'La compra',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.1',
-            titulo: 'Política de compras',
-            hash: 't_6_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.2',
-            titulo: 'Procedimiento',
-            hash: 't_6_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.3',
-            titulo: 'Protocolos',
-            hash: 't_6_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.4',
-            titulo: 'Flujo de proceso',
-            hash: 't_6_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.5',
-            titulo: 'Contingencias',
-            hash: 't_6_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.6',
-            titulo: 'Principios éticos',
-            hash: 't_6_6',
-          },
-        ],
       },
       {
         nombreRuta: 'tema7',
@@ -193,47 +73,13 @@ export default {
         numero: '7',
         titulo: 'Plan de compras',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '7.1',
-            titulo: 'Tipos de plan de compras',
-            hash: 't_7_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '7.2',
-            titulo: 'Características',
-            hash: 't_7_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '7.3',
-            titulo: 'Presupuesto',
-            hash: 't_7_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema8',
         icono: 'far fa-file-alt',
         numero: '8',
-        titulo: 'Cronograma',
+        titulo: 'Cronograma de compras',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '8.1',
-            titulo: 'Tipos de cronograma',
-            hash: 't_8_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '8.2',
-            titulo: 'Características de cronograma',
-            hash: 't_8_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema9',
@@ -241,32 +87,6 @@ export default {
         numero: '9',
         titulo: 'Cadena de suministro',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '9.1',
-            titulo: 'Tipos de eslabones',
-            hash: 't_9_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '9.2',
-            titulo: 'Regulaciones de los parámetros de planeación',
-            hash: 't_9_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '9.3',
-            titulo: 'Demanda y restricciones',
-            hash: 't_9_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '9.4',
-            titulo: 'Canales de distribución',
-            hash: 't_9_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema10',
@@ -274,38 +94,6 @@ export default {
         numero: '10',
         titulo: 'Contratación pública',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.1',
-            titulo: 'Estudios del sector',
-            hash: 't_10_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.2',
-            titulo: 'Plan anual de adquisiciones',
-            hash: 't_10_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.3',
-            titulo: 'Modalidades de selección',
-            hash: 't_10_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.4',
-            titulo: 'Sistema electrónico de contratación pública (SECOP)',
-            hash: 't_10_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '10.5',
-            titulo: 'Normativa',
-            hash: 't_10_5',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -350,63 +138,34 @@ export default {
   },
   complementario: [
     {
-      tema: 'Disponibilidad de producto',
+      tema: 'Verificación de los productos adquiridos',
       referencia:
         'Antonia Cruz Fernández, (2017). <em>UF0476 Gestión de inventarios</em>. IC Editorial.',
       tipo: 'Manual',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10484',
     },
     {
-      tema: 'Contingencias',
-      referencia:
-        'Henao, G. J. C., González, E. M. R., & Moreno, J. C. A. (2017). Evolución de la cultura de la gestión de riesgos en el entorno empresarial colombiano: revisión y diagnóstico. Journal of Engineering and Technology, 6(1), 22-45.',
-      tipo: 'Norma NTC 31000',
+      tema: 'Contratación pública',
+      referencia: 'ICONTEC - Instituto Colombiano de Normas Técnicas. (2018). ',
+      tipo: 'Norma',
       link:
-        'http://repository.unilasallista.edu.co/dspace/bitstream/10567/2058/1/Evoluci%c3%b3n%20de%20la%20cultura%20de%20la%20gesti%c3%b3n%20de%20riesgos%20en%20el%20entorno%20empresarial%20colombiano%20revisi%c3%b3n%20y%20diagn%c3%b3stico.pdf',
+        'https://login.bdigital.sena.edu.co/login?qurl=https://e-collection.icontec.org%2fnormavw.aspx%3fID%3d78777',
     },
     {
       tema: 'Contratación pública',
       referencia:
-        'Departamento Administrativo de la Función Pública, (2011), Decreto 4170 de 2011',
+        'Decreto 4170 de 2011. (Departamento Administrativo de Función Pública). Por el cual se crea la Agencia Nacional de Contratación Pública – Colombia Compra Eficinete-, se determinan sus objetivos y estructura. Noviembre 3 de 2011.',
       tipo: 'PDF',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=44643',
     },
     {
-      tema: 'Estudios del sector',
+      tema: 'Contratación pública',
       referencia:
-        'Presidencia de la República, (2020), I-BS-02-instructivo-elaboracion-analisis-sector.',
+        'SIGEPRE. (2022). <i>Instructivo elaboración análisis del sector</i>.',
       tipo: 'PDF',
       link:
         'https://dapre.presidencia.gov.co/dapre/DocumentosSIGEPRE/I-BS-02-instructivo-elaboracion-analisis-sector.pdf',
-    },
-    {
-      tema: 'Estudios del sector',
-      referencia:
-        'Colombia compra eficiente, (2020) Guía para la Elaboración de Estudios de Sector',
-      tipo: 'PDF',
-      link:
-        'http://www.nuevalegislacion.com/files/susc/cdj/doct/guia_es_14.pdf',
-    },
-    {
-      tema: 'Plan anual de adquisiciones',
-      referencia:
-        'Presidencia de la República, (2022), DAPRE-Plan-Anual-Adquisiciones-2022.',
-      tipo: 'PDF',
-      link:
-        'https://dapre.presidencia.gov.co/dapre/DocumentosPresupuesto/DAPRE-Plan-Anual-Adquisiciones-2022.pdf',
-    },
-    {
-      tema: 'Cadena de suministro',
-      referencia: 'Peiro, A. (2015). <em>Demanda</em>. Economipedia.',
-      tipo: 'Página',
-      link: 'https://economipedia.com/definiciones/demanda.html',
-    },
-    {
-      tema: 'Cadena de suministro',
-      referencia: 'Westreicher, G. (2020). Suministro. <em>Economipedia.</em>',
-      tipo: 'Página web',
-      link: 'https://economipedia.com/definiciones/suministro.html',
     },
   ],
   glosario: [
@@ -479,43 +238,43 @@ export default {
   referencias: [
     {
       referencia:
-        'Arenal Laza, C. (2022). Gestión de Proveedores. MF1004. 1. Editorial Tutor Formación.',
+        'Arenal Laza, C. (2022).<i> Gestión de Proveedores</i>. MF1004. 1. Editorial Tutor Formación.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/215982',
     },
     {
       referencia:
-        'Dueñas Nogueras, J. (2017). MF1004_3: Gestión de proveedores. IC Editorial.',
+        'Dueñas Nogueras, J. (2017). MF1004_3: <i>Gestión de proveedores</i>. IC Editorial.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=8747',
     },
     {
       referencia:
-        'Escrivá Monzó, J., Martínez García, A., Savall Llidó, V.(2014). Gestión de compras. McGraw-Hill.',
+        'Escrivá Monzó, J., Martínez García, A., Savall Llidó, V.(2014). <i>Gestión de compras</i>. McGraw-Hill.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=5353',
     },
     {
       referencia:
-        'Escudero Serrano, M (2019). Gestión de compras, Editorial Paraninfo.',
+        'Escudero Serrano, M (2019). <i>Gestión de compras</i>, Editorial Paraninfo.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=19079',
     },
     {
       referencia:
-        'Gómez Aparicio, J. M. (2014). Gestión logística y comercial. McGraw-Hill.',
+        'Gómez Aparicio, J. M. (2014). <i>Gestión logística y comercial</i>. McGraw-Hill.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=5256',
     },
     {
       referencia:
-        'Johnson, P. F., Flynn, A. E., Leenders, M. R. (2012). Administración de compras y abastecimientos. McGraw-Hill.',
+        'Johnson, P. F., Flynn, A. E., Leenders, M. R. (2012). <i>Administración de compras y abastecimientos</i>. McGraw-Hill.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=286',
     },
     {
       referencia:
-        'Soriano Soriano, C. L. (2012). Compras e inventarios. Ediciones Díaz de Santos.',
+        'Soriano Soriano, C. L. (2012). <i>Compras e inventarios</i>. Ediciones Díaz de Santos.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=4971',
     },
     {
       referencia:
-        'Sunil Chopra, Meindel Peter, Pino Ricardo, Administración de la cadena de suministro. Pearson educación de Perú, 2017.',
+        'Sunil, C., Meindel, P., & Pino, R. (2017). <i>Administración de la cadena de suministro</i>. Pearson. Ebooks7-24 (sena.edu.co)',
       link: '',
     },
   ],
