@@ -24,7 +24,7 @@
       SlyderA(tipo="b")
         .row.justify-content-center
           .col-md-8
-            h2 Gráfico de Gantt:
+            h2 Gráfico de Gantt
             p Existen diversos tipos de cronogramas de compras, entre los cuales se pueden resaltar los más utilizados; estos son: 
           .col-md-4
             figure
@@ -32,7 +32,7 @@
 
         .row.justify-content-center
           .col-md-8
-            h2 Diagrama PERT:
+            h2 Diagrama PERT
             p Significa <i>Program Evaluation and Review Technique</i>. Se caracteriza por contener actividades descritas en el tiempo realista y muestra la ruta crítica para la obtención de objetivos operacionales.
           .col-md-4
             figure
@@ -40,7 +40,7 @@
 
         .row.justify-content-center
           .col-md-8
-            h2 Cronograma de hitos:
+            h2 Cronograma de hitos
             p Es una representación visual de las tareas más importantes para el desarrollo de una actividad o proyecto; los hitos pueden tomarse como puntos de control más amigables y visuales que permiten mostrar avances. Se utilizan en proyectos más grandes y complejos.
           .col-md-4
             figure
@@ -48,7 +48,7 @@
 
         .row.justify-content-center
           .col-md-8
-            h2 #[em Microsoft Project:]
+            h2 #[em Microsoft Project]
             p Es un programa informático que permite gestionar proyectos y sus fases, de una manera clara para la asistencia a administradores de proyectos. En la gestión de compras se puede utilizar cuando el proceso es muy técnico y extenso. La ventaja de este <i>software</i> es que permite crear una ruta crítica, facilitando la nivelación de los recursos y la visibilidad clara de los puntos clave de un plan de compras.
           .col-md-4
             figure
