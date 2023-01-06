@@ -25,7 +25,7 @@
         .row.justify-content-center
           .col-md-8
             h2 Gráfico de Gantt
-            p Existen diversos tipos de cronogramas de compras, entre los cuales se pueden resaltar los más utilizados; estos son: 
+            p Es una herramienta de gestión que permite realizar planeación de actividades; está compuesta por dos secciones: la de la derecha describe las fechas y la de la izquierda las actividades.
           .col-md-4
             figure
              img(src='@/assets/curso/temas/tema8/t8-2.svg', alt='')

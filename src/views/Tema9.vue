@@ -76,7 +76,7 @@
 
     .row.justify-content-center.mt-5
       p Las cadenas de suministro se ven, de alguna manera, enmarcadas en parámetros que son de obligatorio cumplimiento, como las regulaciones de mercado, legales y técnicas; todas estas son impuestas por entes gubernamentales o supranacionales que regulan, ya sea al comercio o la competencia en el mercado. 
-      p Cadena de suministro
+
       .col-lg-10.mt-5
         img(src='@/assets/curso/temas/tema9/t9-8.svg', alt='').mb-3
       p.mt-3 Asimismo, encuentra también la demanda y las restricciones de la cadena de suministro.   

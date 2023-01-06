@@ -53,7 +53,8 @@
                 img.img-a.img-t(src='@/assets/curso/temas/tema10/t10-6.svg', alt='').mb-4
           h3.text-center.mb-2 SECOP I:
           p.text-center Plataforma exclusivamente de publicidad, en la cual las entidades que contratan con cargo a recursos públicos realizan las publicaciones de los documentos del proceso.
-          p.text-center SECOP II: Plataforma transaccional para gestionar en línea todos los procesos de contratación, con cuentas para entidades y proveedores, y vista pública para cualquier tercero interesado en hacer seguimiento a la contratación pública.
+          h3.text-center.mb-2 SECOP II:           
+          p.text-center Plataforma transaccional para gestionar en línea todos los procesos de contratación, con cuentas para entidades y proveedores, y vista pública para cualquier tercero interesado en hacer seguimiento a la contratación pública.
         
         .col-md.tarjeta.color2.p-4
           .row.justify-content-center
@@ -72,7 +73,7 @@
       .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-4
         .bloque-texto-g3__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema10/t10-8.svg')})`}")
         .bloque-texto-g3__texto.p-4
-          p Las entidades estatales deben escoger a sus contratistas (proveedores) a través de alguna de las modalidades de selección previstas en la Ley 1150 de 2007: (i) licitación pública; (ii) selección abreviada; (iii) concurso de méritos; (iv) contratación directa; (v) mínima cuantía (Función Pública, 2018).  En el Anexo 1 - Modalidades de Selección del Contratista se amplía esta información.
+          p Las entidades estatales deben escoger a sus contratistas (proveedores) a través de alguna de las modalidades de selección previstas en la Ley 1150 de 2007: (i) licitación pública; (ii) selección abreviada; (iii) concurso de méritos; (iv) contratación directa; (v) mínima cuantía (Función Pública, 2018).
 
 </template>
 

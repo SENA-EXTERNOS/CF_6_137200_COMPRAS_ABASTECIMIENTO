@@ -58,7 +58,7 @@
           .row(titulo="Participación")
             p.mb-0 La participación de las áreas en la construcción de la programación se hace de forma activa y obedece a las necesidades priorizadas de cada área de la empresa.
           .row(titulo="Sistematicidad")
-            p.mb-0 La programación de la compra sirve como objeto de planeación estratégica de los recursos de la organización, priorizando los de mayor importancia en las necesidades internas de la empresa.
+            p.mb-0 Este concepto obedece a que la gestión de la programación de compras requiere de la participación de diversas áreas, las cuales deben ser conscientes de su rol en ella. Así, se favorecen mejores resultados en las compras.
           .row(titulo="Economía")
             p.mb-0 Obtener los mejores precios de mercado, cumpliendo con las exigencias y necesidades de la organización, es un fin de la programación de compras.
           .row(titulo="Tiempos óptimos")
@@ -84,7 +84,7 @@
         img(src='@/assets/curso/temas/tema5/t5-5.svg', alt='').img-movil
       .col-lg-10        
         p La programación de compras es un insumo que abarca las necesidades de todos los procesos de la organización, por ello se diseña teniendo en cuenta la participación de los representantes de las áreas en su construcción; así, contemplar e incluir todas las necesidades o la mayor amplitud de estas.
-        p.text-bold Ya sabiendo qué es la verificación, es necesario conocer en qué consiste potencializar las compras. 
+
 </template>
 
 <script>

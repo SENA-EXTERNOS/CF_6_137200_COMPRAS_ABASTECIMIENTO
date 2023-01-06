@@ -12,9 +12,7 @@
         .bloque-texto-g1__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/t1-1.svg')})`}")
         .bloque-texto-g1__texto.p-4
           p La disponibilidad de producto refleja la <b>cantidad</b> del producto terminado, que la organización tiene disponible para su comercialización; es muy importante que se encuentre actualizada de manera permanente. Todas las organizaciones deben tener un orden muy estricto en cuanto a los inventarios o <em>stock</em> de productos, pues esto permite acceder a la oferta real, y con confianza, de los artículos que los posibles compradores requieran, así como mantener el flujo de información que se maneja en los inventarios y su necesaria evaluación, lo que manifiesta las cantidades y los valores almacenados en las bodegas de la organización.
-      
-      p.mt-5 Ahora bien, no basta con tener la disponibilidad del producto. Veamos las características y los métodos usados.
-    
+   
     h4.my-4 Características de la disponibilidad del producto
 
     .row.justify-content-center
