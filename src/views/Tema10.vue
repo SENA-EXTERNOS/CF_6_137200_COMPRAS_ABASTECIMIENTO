@@ -17,7 +17,7 @@
 
           p En el Decreto Ley 4170 podrá profundizar en el mandato del Gobierno central frente al tema de cómo se ofrecen servicios al sector público.
 
-    .row.justify-content-center
+    .row.justify-content-center.mt-5
       .col-lg-7
         p El análisis del sector ofrece herramientas para establecer el contexto del proceso de contratación, entre las cuales están: identificar algunos de los riesgos, determinar los requisitos habilitantes y la forma de evaluar las ofertas. Este análisis debe revisar en las empresas o personas naturales proponentes la capacidad jurídica, financiera, organizacional y experiencia de cada una de estas. El Gobierno tiene su propio procedimiento para realizar esta actividad, y todas las empresas estatales deben seguirlo, así que lo invitamos a conocerlo en el material complementario que encontrará al finalizar este módulo.
 
