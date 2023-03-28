@@ -89,7 +89,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.texto-blanco.mb-0  Anexo 2 - Políticas de compras
+                  b.texto-blanco.mb-0  Anexo 1
+                  p.texto-blanco Políticas de compras
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Politicas_de_compras.pdf')" target="_blank")
                     span Ver más

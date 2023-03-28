@@ -37,6 +37,19 @@
       .col-lg-8
         p Las entidades estatales deben escoger a sus contratistas (proveedores) a través de alguna de las modalidades de selección previstas en la Ley 1150 de 2007.
 
+        .tarjeta.color-descarga.p-4
+          .row.justify-content-around.align-items-center
+            .col-4.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/tema6/t6-16.svg").icono
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.texto-blanco Podrá profundizar en estas modalidades por medio del #[b Anexo 2] - Modalidades de Selección del Contratista.
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo-2_modalidades_de_seleccion_del_contratista.pdf')" target="_blank")
+                    span Ver más
+                    i.fas.fa-file-download
+
       .col-lg-4
         img(src='@/assets/curso/temas/tema10/t10-4.svg', alt='').mb-3.mt-1
 
