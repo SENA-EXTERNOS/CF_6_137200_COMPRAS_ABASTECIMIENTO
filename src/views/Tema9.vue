@@ -70,7 +70,7 @@
     .row.justify-content-center.mt-5
       p En la cadena de suministro pueden presentarse más o menos eslabones, dependiendo quiénes sean los clientes de la organización; por lo tanto, existen dos tipos de eslabones, los internos y los externos. Compréndalos, analizando el esquema que se presenta a continuación:
       .col-auto.mt-5
-        img(src='@/assets/curso/temas/tema9/t9-7.svg', alt='').mb-3
+        img(src='@/assets/curso/temas/tema9/t9-71.svg', alt='').mb-3
 
     h4.my-4 Regulaciones de los parámetros de planeación
 
