@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Planes y programas de compras',
     descripcionCurso:
-      'Este componente formativo tiene como objetivo que el aprendiz adquiera conocimientos sobre el proceso de compra en función de la adquisición de bienes y servicios más rentables para la organización; ello, conociendo sobre las políticas de compras que se deben llevar a cabo, con una debida planeación y puesta en marcha del plan de compras en la cadena de suministro de cada empresa. ',
+      'Este componente formativo tiene como objetivo que el aprendiz adquiera conocimientos sobre el proceso de compra en función de la adquisición de bienes y servicios más rentables para la organización; Conociendo sobre las políticas de compras que se deben llevar a cabo, con una debida planeación y puesta en marcha del plan de compras en la cadena de suministro de cada empresa. ',
 
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -157,7 +157,7 @@ export default {
         'Decreto 4170 de 2011. (Departamento Administrativo de Función Pública). Por el cual se crea la Agencia Nacional de Contratación Pública – Colombia Compra Eficinete-, se determinan sus objetivos y estructura. Noviembre 3 de 2011.',
       tipo: 'PDF',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=44643',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=44643',
     },
     {
       tema: 'Contratación pública',
@@ -172,7 +172,7 @@ export default {
     {
       termino: 'Abastecimiento',
       significado:
-        'se conoce como abastecimiento al proceso mediante el cual los proveedores facilitan medios al resto de grupos económicos o individuos, los cuales consiguen un determinado nivel de satisfacción o utilidad. (Galán, 2021).',
+        'se conoce como abastecimiento al proceso mediante el cual los proveedores facilitan medios al resto de grupos económicos o individuos, los cuales consiguen un determinado nivel de satisfacción o utilidad (Galán, 2021).',
     },
     {
       termino: 'Cadenas de distribución',
@@ -182,7 +182,7 @@ export default {
     {
       termino: 'Cadena de suministro',
       significado:
-        'una cadena de suministro es el conjunto de actividades, instalaciones y medios de distribución necesarios para llevar a cabo el proceso de venta de un producto en su totalidad. Esto es, desde la búsqueda de materias primas y su posterior transformación hasta la fabricación, transporte y entrega al consumidor final. (Westreicher, 2020).',
+        'una cadena de suministro es el conjunto de actividades, instalaciones y medios de distribución necesarios para llevar a cabo el proceso de venta de un producto en su totalidad. Esto es, desde la búsqueda de materias primas y su posterior transformación hasta la fabricación, transporte y entrega al consumidor final (Westreicher, 2020).',
     },
     {
       termino: 'Cadena logística',
@@ -192,47 +192,47 @@ export default {
     {
       termino: 'Canales de distribución',
       significado:
-        'los canales de distribución están definidos por las diferentes fases o etapas por las que un producto pasa, de modo que su propiedad va pasando de unas manos a otras: desde el fabricante al consumidor o usuario final. (Galán, 2021).',
+        'los canales de distribución están definidos por las diferentes fases o etapas por las que un producto pasa, de modo que su propiedad va pasando de unas manos a otras: desde el fabricante al consumidor o usuario final (Galán, 2021).',
     },
     {
       termino: 'Demanda',
       significado:
-        'la demanda es la solicitud para adquirir algo. En economía, la demanda es la cantidad total de un bien o servicio que la gente desea adquirir. (Peiro, 2015).',
+        'la demanda es la solicitud para adquirir algo. En economía, la demanda es la cantidad total de un bien o servicio que la gente desea adquirir (Peiro, 2015).',
     },
     {
       termino: 'Gestión de inventarios',
       significado:
-        'la gestión de inventarios es la administración respecto al ingreso y salida de insumos, productos terminados o semiterminados, bienes auxiliares y herramientas que posee una empresa. (Westreicher, 2020).',
+        'la gestión de inventarios es la administración respecto al ingreso y salida de insumos, productos terminados o semiterminados, bienes auxiliares y herramientas que posee una empresa (Westreicher, 2020).',
     },
     {
       termino: 'Inventario final',
       significado:
-        'el inventario final es aquel que se registra al terminar un ejercicio contable, previo control de entradas y salidas de existencias. (Llamas, Economipedia, 2020).',
+        'el inventario final es aquel que se registra al terminar un ejercicio contable, previo control de entradas y salidas de existencias (Llamas, Economipedia, 2020).',
     },
     {
       termino: 'Inventario inicial',
       significado:
-        'el inventario inicial es aquel que se registra al comienzo de un ejercicio contable, previo cálculo de variaciones de este al final del ejercicio anterior. (Llamas, 2020).',
+        'el inventario inicial es aquel que se registra al comienzo de un ejercicio contable, previo cálculo de variaciones de este al final del ejercicio anterior (Llamas, 2020).',
     },
     {
       termino: 'Orden de compra',
       significado:
-        'una orden de compra, también llamada orden de pedido o nota de pedido, es un documento mediante el cual el comprador solicita mercancías al vendedor. (Rus, 2020).',
+        'una orden de compra, también llamada orden de pedido o nota de pedido, es un documento mediante el cual el comprador solicita mercancías al vendedor (Rus, 2020).',
     },
     {
       termino: 'Regulación',
       significado:
-        'la regulación consiste en establecer normas o leyes para disponer un determinado orden en un ámbito jurídico concreto. Esto por parte del Estado, a través del ejercicio de la legislación. (Trujillo, 2022).',
+        'la regulación consiste en establecer normas o leyes para disponer un determinado orden en un ámbito jurídico concreto. Esto por parte del Estado, a través del ejercicio de la legislación (Trujillo, 2022).',
     },
     {
       termino: 'Sistema de inventario',
       significado:
-        'el sistema de inventarios es el grupo de reglas y procesos que implementa una empresa para planificar y supervisar las mercancías y los materiales de los que dispone. (Westreicher, 2020).',
+        'el sistema de inventarios es el grupo de reglas y procesos que implementa una empresa para planificar y supervisar las mercancías y los materiales de los que dispone (Westreicher, 2020).',
     },
     {
       termino: 'Valoración de inventario',
       significado:
-        'son técnicas aplicadas para valorar las unidades en almacén en términos monetarios. Esta valoración es especialmente útil cuando las unidades se van adquiriendo a distintos precios. (Marco, 2020).',
+        'son técnicas aplicadas para valorar las unidades en almacén en términos monetarios. Esta valoración es especialmente útil cuando las unidades se van adquiriendo a distintos precios (Marco, 2020).',
     },
   ],
   referencias: [
