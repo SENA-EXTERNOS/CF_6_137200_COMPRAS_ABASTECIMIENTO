@@ -109,28 +109,22 @@
               img(src='@/assets/curso/temas/tema6/t6-9.svg', alt='', style='')
 
           .tarjeta.color-acento-botones.p-4(x="28.4%" y="7%" numero="1" style='')
-            h5.mb-3 Solicitud de compra:
-            p.mb-0 se da cuando cualquier departamento detecta la necesidad de un bien requerido para su normal funcionamiento dentro de la organización.
+            p #[b Solicitud de compra:] se da cuando cualquier departamento detecta la necesidad de un bien requerido para su normal funcionamiento dentro de la organización.
 
           .tarjeta.color-acento-botones.p-4(x="62%" y="7%" numero="2" style='')
-            h5.mb-3 Evaluación y selección de proveedor: 
-            p.mb-0 el departamento de compras recibe la solicitud y evalúa cuál de los proveedores que trabajan con la organización es más conveniente para realizar el pedido y solicita cotizaciones a distintos proveedores.
+            p #[b Evaluación y selección de proveedor:] el departamento de compras recibe la solicitud y evalúa cuál de los proveedores que trabajan con la organización es más conveniente para realizar el pedido y solicita cotizaciones a distintos proveedores.
 
           .tarjeta.color-acento-botones.p-4(x="95.5%" y="7%" numero="3" style='')
-            h5.mb-3 Negociación de las condiciones de compra:
-            p.mb-0 una vez seleccionada una cotización enviada por los proveedores, se hace el contacto para acordar condiciones en la compra y llegar a un acuerdo mutuamente beneficioso.
+            p #[b Negociación de las condiciones de compra:] una vez seleccionada una cotización enviada por los proveedores, se hace el contacto para acordar condiciones en la compra y llegar a un acuerdo mutuamente beneficioso.
           
           .tarjeta.color-acento-botones.p-4(x="28%" y="57%" numero="4" style='')
-            h5.mb-3 Seguimiento del pedido:
-            p.mb-0 una vez terminada la negociación y hecho el envío del pedido al proveedor, se debe realizar un seguimiento de la orden de compra, ya sea con uso de las tecnologías o no, con el fin de que el pedido llegue en fechas ideales y no genere cuellos de botella por desabastecimiento.
+            p #[b Seguimiento del pedido:] una vez terminada la negociación y hecho el envío del pedido al proveedor, se debe realizar un seguimiento de la orden de compra, ya sea con uso de las tecnologías o no, con el fin de que el pedido llegue en fechas ideales y no genere cuellos de botella por desabastecimiento.
 
           .tarjeta.color-acento-botones.p-4(x="62%" y="57%" numero="5" style='')
-            h5.mb-3 Recepción de la mercancía:
-            p.mb-0 una vez que el pedido llegue a las instalaciones de la organización se procede a realizar una inspección a profundidad de lo que se va a recibir; esto incluye calidad, cantidad, referencias y precios de lo que se recibe. Si existen discordancias es esencial notificarlas inmediatamente al proveedor para decidir si aceptarlas o realizar devolución.
+            p #[b Recepción de la mercancía:] una vez que el pedido llegue a las instalaciones de la organización se procede a realizar una inspección a profundidad de lo que se va a recibir; esto incluye calidad, cantidad, referencias y precios de lo que se recibe. Si existen discordancias es esencial notificarlas inmediatamente al proveedor para decidir si aceptarlas o realizar devolución.
 
           .tarjeta.color-acento-botones.p-4(x="95.5%" y="57%" numero="6" style='')
-            h5.mb-3 Recepción de la factura:
-            p.mb-0 una vez verificada la recepción de la mercancía, la organización finalizará el ciclo de pedido con la recepción de la factura, que deberá contener también coincidencia con la orden de pedido y la recepción en físico; además, debe contener carácter legal, con el fin de que la organización genere procesos contables internos y realizar el pago de esta dentro de los compromisos adquiridos con el proveedor, sin ningún tipo de retraso.
+            p #[b Recepción de la factura:] una vez verificada la recepción de la mercancía, la organización finalizará el ciclo de pedido con la recepción de la factura, que deberá contener también coincidencia con la orden de pedido y la recepción en físico; además, debe contener carácter legal, con el fin de que la organización genere procesos contables internos y realizar el pago de esta dentro de los compromisos adquiridos con el proveedor, sin ningún tipo de retraso.
 
     h4.my-4  Protocolo de compras
 
